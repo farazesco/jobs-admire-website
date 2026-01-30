@@ -173,200 +173,200 @@
     },
     "page": {
       "brandName": "JobsAdmire",
-      "heroTitle": "PRIVACY",
-      "heroTitleHighlight": "POLICY",
-      "lastUpdated": "Last Updated: 27 September 2025",
-      "aboutTitle": "About This Policy",
-      "aboutParagraph": "This Privacy Policy applies to jobsadmire.com and all subdomains (including crm.jobsadmire.com), as well as our mobile and communication channels (email, WhatsApp, phone). We are committed to protecting your personal data in full compliance with Turkish Law on the Protection of Personal Data No. 6698 (KVKK) and İŞKUR regulations.",
-      "sectionDataController": "1. DATA CONTROLLER",
-      "sectionScope": "2. SCOPE",
-      "sectionDataCategories": "3. DATA CATEGORIES",
-      "sectionPurposes": "4. PURPOSES & LEGAL BASES",
-      "sectionCookies": "5. COOKIES",
-      "sectionDisclosures": "6. THIRD PARTY DISCLOSURES",
-      "sectionTransfers": "7. CROSS-BORDER TRANSFERS",
-      "sectionRetention": "8. RETENTION",
-      "sectionRights": "9. YOUR RIGHTS",
-      "sectionSecurity": "10. SECURITY MEASURES",
+      "heroTitle": "سیاست",
+      "heroTitleHighlight": "حریم خصوصی",
+      "lastUpdated": "آخرین به‌روزرسانی: ۲۷ سپتامبر ۲۰۲۵",
+      "aboutTitle": "درباره این سیاست",
+      "aboutParagraph": "این سیاست حریم خصوصی در مورد jobsadmire.com و تمام زیردامنه‌ها (از جمله crm.jobsadmire.com) و همچنین کانال‌های موبایل و ارتباطی ما (ایمیل، واتساپ، تلفن) اعمال می‌شود. ما متعهد به حفاظت از داده‌های شخصی شما در انطباق کامل با قانون ترکیه در مورد حفاظت از داده‌های شخصی شماره ۶۶۹۸ (KVKK) و مقررات İŞKUR هستیم.",
+      "sectionDataController": "۱. کنترل‌کننده داده",
+      "sectionScope": "۲. دامنه",
+      "sectionDataCategories": "۳. دسته‌های داده",
+      "sectionPurposes": "۴. اهداف و مبانی قانونی",
+      "sectionCookies": "۵. کوکی‌ها",
+      "sectionDisclosures": "۶. افشای اطلاعات به اشخاص ثالث",
+      "sectionTransfers": "۷. انتقال برون‌مرزی",
+      "sectionRetention": "۸. نگهداری",
+      "sectionRights": "۹. حقوق شما",
+      "sectionSecurity": "۱۰. تدابیر امنیتی",
       "body": {
         "dataController": {
           "companyName": "Jobs Admire Özel İstihdam Bürosu Sanayi ve Ticaret Limited Şirketi",
-          "addressLabel": "Address:",
-          "addressText": "As listed on our website footer/Contact page",
-          "emailLabel": "Email:",
+          "addressLabel": "آدرس:",
+          "addressText": "همانطور که در فوتر وب‌سایت/صفحه تماس ما ذکر شده است",
+          "emailLabel": "ایمیل:",
           "email": "info@jobsadmire.com",
-          "phoneLabel": "Phone:",
+          "phoneLabel": "تلفن:",
           "phone": "+90 501 124 03 40",
-          "permitNote": "We operate as a Private Employment Agency permitted by İŞKUR (Permit No. 1730, dated 19.09.2024). Under Law No. 4904, it is forbidden to charge jobseekers any fee. Complaints: İstanbul İŞKUR Provincial Directorate Kadıköy Service Center (tel. 0216 418 34 55)."
+          "permitNote": "ما به عنوان آژانس استخدام خصوصی با مجوز İŞKUR (شماره مجوز ۱۷۳۰، مورخ ۱۹.۰۹.۲۰۲۴) فعالیت می‌کنیم. طبق قانون شماره ۴۹۰۴، دریافت هرگونه هزینه از کارجویان ممنوع است. شکایات: مرکز خدمات کادیکوی اداره استانی İŞKUR استانبول (تلفن ۰۲۱۶ ۴۱۸ ۳۴ ۵۵)."
         },
         "scope": {
-          "intro": "This Policy explains how we process personal data when you:",
+          "intro": "این سیاست نحوه پردازش داده‌های شخصی را هنگامی که شما اقدامات زیر را انجام می‌دهید توضیح می‌دهد:",
           "items": [
-            "Browse our site",
-            "Create a profile or upload a CV",
-            "Apply to jobs",
-            "Request services (recruitment, HR, immigration)",
-            "Subscribe to job alerts",
-            "Partner with us",
-            "Interact with our CRM and support channels"
+            "مرور سایت ما",
+            "ایجاد پروفایل یا بارگذاری رزومه",
+            "درخواست برای مشاغل",
+            "درخواست خدمات (استخدام، منابع انسانی، مهاجرت)",
+            "عضویت در هشدارهای شغلی",
+            "همکاری با ما",
+            "تعامل با CRM و کانال‌های پشتیبانی ما"
           ]
         },
         "dataCategories": {
-          "sectionTitle": "3. CATEGORIES OF PERSONAL DATA",
+          "sectionTitle": "۳. دسته‌های داده‌های شخصی",
           "categories": [
             {
-              "title": "Identification & Contact:",
-              "desc": "name, email, phone, address, nationality"
+              "title": "شناسایی و تماس:",
+              "desc": "نام، ایمیل، تلفن، آدرس، تابعیت"
             },
             {
-              "title": "Candidate Data:",
-              "desc": "CV/resume, education, work history, skills, references, interview notes, profile photo, uploaded documents (qualifications, licenses)"
+              "title": "داده‌های نامزد:",
+              "desc": "رزومه/CV، تحصیلات، سابقه کار، مهارت‌ها، معرف‌ها، یادداشت‌های مصاحبه، عکس پروفایل، اسناد بارگذاری شده (مدارک، گواهی‌ها)"
             },
             {
-              "title": "Immigration/Relocation Data:",
-              "desc": "passport/ID details, civil status, travel history, residency/work-permit information (only where needed)"
+              "title": "داده‌های مهاجرت/نقل مکان:",
+              "desc": "جزئیات گذرنامه/شناسنامه، وضعیت تأهل، تاریخچه سفر، اطلاعات اقامت/مجوز کار (فقط در صورت نیاز)"
             },
             {
-              "title": "Employer/Partner Data (B2B):",
-              "desc": "company name, title, work contact, role requirements, contracts"
+              "title": "داده‌های کارفرما/شریک (B2B):",
+              "desc": "نام شرکت، عنوان، تماس کاری، الزامات نقش، قراردادها"
             },
             {
-              "title": "Transaction Data:",
-              "desc": "paid service details (premium/resume/interview coaching), invoices (no card data stored on our servers)"
+              "title": "داده‌های تراکنش:",
+              "desc": "جزئیات خدمات پولی (ویژه/رزومه/کوچینگ مصاحبه)، فاکتورها (اطلاعات کارت در سرورهای ما ذخیره نمی‌شود)"
             },
             {
-              "title": "Usage & Device Data:",
-              "desc": "logs, IP, user agent, pages viewed, cookies"
+              "title": "داده‌های استفاده و دستگاه:",
+              "desc": "لاگ‌ها، IP، عامل کاربر، صفحات مشاهده شده، کوکی‌ها"
             },
             {
-              "title": "Communications:",
-              "desc": "emails, calls/WhatsApp/chat, support tickets"
+              "title": "ارتباطات:",
+              "desc": "ایمیل‌ها، تماس‌ها/واتساپ/چت، تیکت‌های پشتیبانی"
             }
           ],
-          "specialNote": "Special Categories: We do not intentionally collect health or biometric data. If a role or legal process requires such data, we will process only where lawful and necessary, with explicit consent under KVKK where required."
+          "specialNote": "دسته‌های خاص: ما عمداً داده‌های سلامت یا بیومتریک جمع‌آوری نمی‌کنیم. اگر نقش یا فرآیند قانونی به چنین داده‌هایی نیاز داشته باشد، فقط در جایی که قانونی و ضروری باشد با رضایت صریح تحت KVKK پردازش خواهیم کرد."
         },
         "purposes": {
-          "sectionTitle": "4. PURPOSES & LEGAL BASES (KVKK ARTS. 5–6)",
-          "intro": "We process data for these purposes and legal grounds:",
+          "sectionTitle": "۴. اهداف و مبانی قانونی (مواد ۵-۶ KVKK)",
+          "intro": "ما داده‌ها را برای این اهداف و مبانی قانونی پردازش می‌کنیم:",
           "items": [
             {
-              "title": "Core Services (Candidates & Employers):",
-              "desc": "Create accounts, match & place candidates, manage applications, interviews, offers, contracts, onboarding",
-              "legal": "Performance of contract, legitimate interests, legal obligation"
+              "title": "خدمات اصلی (نامزدها و کارفرمایان):",
+              "desc": "ایجاد حساب، تطبیق و استقرار نامزدها، مدیریت درخواست‌ها، مصاحبه‌ها، پیشنهادات، قراردادها، آنبوردینگ",
+              "legal": "اجرای قرارداد، منافع مشروع، تعهد قانونی"
             },
             {
-              "title": "Immigration/Relocation Support:",
-              "desc": "Residence/work permit, visa invitations, documentation",
-              "legal": "Performance of contract, legal obligation, explicit consent (for certain documents)"
+              "title": "پشتیبانی مهاجرت/نقل مکان:",
+              "desc": "مجوز اقامت/کار، دعوت‌نامه‌های ویزا، مستندات",
+              "legal": "اجرای قرارداد، تعهد قانونی، رضایت صریح (برای اسناد خاص)"
             },
             {
-              "title": "B2B Partner & Recruiter Management:",
-              "desc": "Onboarding, compliance, invoicing",
-              "legal": "Contract, legal obligation, legitimate interests"
+              "title": "مدیریت شریک B2B و استخدام‌کننده:",
+              "desc": "آنبوردینگ، انطباق، صورتحساب",
+              "legal": "قرارداد، تعهد قانونی، منافع مشروع"
             },
             {
-              "title": "Communications & Alerts:",
-              "desc": "Job alerts, consultation scheduling, service updates",
-              "legal": "Explicit consent (marketing), contract/legitimate interests (service messages)"
+              "title": "ارتباطات و هشدارها:",
+              "desc": "هشدارهای شغلی، زمان‌بندی مشاوره، به‌روزرسانی خدمات",
+              "legal": "رضایت صریح (بازاریابی)، قرارداد/منافع مشروع (پیام‌های خدماتی)"
             },
             {
-              "title": "Security & Compliance:",
-              "desc": "Audit logs, access controls, responding to authorities, İŞKUR requirements",
-              "legal": "Legal obligation, legitimate interests"
+              "title": "امنیت و انطباق:",
+              "desc": "لاگ‌های حسابرسی، کنترل‌های دسترسی، پاسخ به مقامات، الزامات İŞKUR",
+              "legal": "تعهد قانونی، منافع مشروع"
             },
             {
-              "title": "Analytics & Site Performance:",
-              "desc": "Aggregated usage, improving UX",
-              "legal": "Legitimate interests, consent (for non-essential cookies)"
+              "title": "تحلیل و عملکرد سایت:",
+              "desc": "استفاده تجمیعی، بهبود UX",
+              "legal": "منافع مشروع، رضایت (برای کوکی‌های غیرضروری)"
             }
           ],
-          "legalLabel": "Legal bases: {{legal}}"
+          "legalLabel": "مبانی قانونی: {{legal}}"
         },
         "cookies": {
-          "sectionTitle": "5. COOKIES & ONLINE IDENTIFIERS",
-          "intro": "We use necessary cookies and, with your consent, analytics/functional/advertising cookies. You can manage or withdraw consent anytime via Cookie Settings (site footer).",
-          "notice": "Our Cookie Notice includes categories, purposes, providers, retention, and withdrawal instructions—aligned with the KVKK Board's Cookie Guidelines (2022, updated 2025)."
+          "sectionTitle": "۵. کوکی‌ها و شناسه‌های آنلاین",
+          "intro": "ما از کوکی‌های ضروری و با رضایت شما، کوکی‌های تحلیلی/عملکردی/تبلیغاتی استفاده می‌کنیم. می‌توانید رضایت را هر زمان از طریق تنظیمات کوکی (فوتر سایت) مدیریت یا پس بگیرید.",
+          "notice": "اعلامیه کوکی ما شامل دسته‌ها، اهداف، ارائه‌دهندگان، نگهداری و دستورالعمل‌های پس‌گیری است - همسو با دستورالعمل‌های کوکی هیئت KVKK (۲۰۲۲، به‌روزرسانی ۲۰۲۵)."
         },
         "disclosures": {
-          "sectionTitle": "7. DISCLOSURES TO THIRD PARTIES",
+          "sectionTitle": "۷. افشا به اشخاص ثالث",
           "items": [
-            "Employers/clients seeking to hire (only relevant candidate data)",
-            "Authorized partners/recruiters assisting in placement",
-            "Service providers/processors (hosting, CRM, ATS tools, communications, payment processing, background checks)",
-            "Public authorities & courts where legally required (İŞKUR, immigration authorities)"
+            "کارفرمایان/مشتریانی که به دنبال استخدام هستند (فقط داده‌های نامزد مرتبط)",
+            "شرکا/استخدام‌کنندگان مجاز که در استقرار کمک می‌کنند",
+            "ارائه‌دهندگان خدمات/پردازشگرها (میزبانی، CRM، ابزارهای ATS، ارتباطات، پردازش پرداخت، بررسی سوابق)",
+            "مقامات عمومی و دادگاه‌ها در جایی که قانوناً لازم است (İŞKUR، مقامات مهاجرت)"
           ],
-          "processorNote": "All processors act under contracts meeting KVKK requirements."
+          "processorNote": "همه پردازشگرها تحت قراردادهایی که الزامات KVKK را برآورده می‌کنند عمل می‌کنند."
         },
         "transfers": {
-          "sectionTitle": "8. CROSS-BORDER TRANSFERS (KVKK ART. 9)",
-          "intro": "Where data is transferred outside Türkiye (e.g., cloud hosting, international employers, global tools), we rely on permitted mechanisms under 2024 amendments:",
+          "sectionTitle": "۸. انتقال برون‌مرزی (ماده ۹ KVKK)",
+          "intro": "در جایی که داده‌ها به خارج از ترکیه منتقل می‌شوند (مثلاً میزبانی ابری، کارفرمایان بین‌المللی، ابزارهای جهانی)، بر مکانیزم‌های مجاز تحت اصلاحات ۲۰۲۴ تکیه می‌کنیم:",
           "items": [
-            "Adequacy decision (if destination recognized by the Board)",
-            "Commitments/standard contracts approved/notified to Authority",
-            "Binding Corporate Rules",
-            "Explicit consent (last resort, where no other mechanism applies)"
+            "تصمیم کفایت (اگر مقصد توسط هیئت به رسمیت شناخته شود)",
+            "تعهدات/قراردادهای استاندارد تأیید/اطلاع داده شده به مرجع",
+            "قوانین شرکتی الزام‌آور",
+            "رضایت صریح (آخرین چاره، جایی که مکانیزم دیگری اعمال نمی‌شود)"
           ],
-          "recordNote": "We keep a record of transfer assessments."
+          "recordNote": "ما سوابق ارزیابی انتقال را نگهداری می‌کنیم."
         },
         "retention": {
-          "sectionTitle": "9. RETENTION",
-          "text": "We retain data only as long as necessary for the purposes above and statutory limitation periods (e.g., labor, commercial, and İŞKUR regulations). When no longer needed, data is deleted/anonymized per KVKK."
+          "sectionTitle": "۹. نگهداری",
+          "text": "ما داده‌ها را فقط تا زمانی که برای اهداف فوق و دوره‌های محدودیت قانونی (مثلاً مقررات کار، تجاری و İŞKUR) ضروری است نگهداری می‌کنیم. وقتی دیگر نیازی نباشد، داده‌ها طبق KVKK حذف/ناشناس می‌شوند."
         },
         "rights": {
-          "sectionTitle": "10. YOUR RIGHTS (KVKK ART. 11)",
-          "intro": "You may apply to us to:",
+          "sectionTitle": "۱۰. حقوق شما (ماده ۱۱ KVKK)",
+          "intro": "می‌توانید برای موارد زیر به ما درخواست دهید:",
           "items": [
-            "Learn whether we process your data",
-            "Request information on processing",
-            "Learn purposes & recipients",
-            "Request rectification",
-            "Request deletion/anonymization where grounds apply",
-            "Object to exclusively automated processing",
-            "Object to processing under legitimate interests",
-            "Request compensation for unlawful processing"
+            "آگاهی از اینکه آیا داده‌های شما را پردازش می‌کنیم",
+            "درخواست اطلاعات در مورد پردازش",
+            "آگاهی از اهداف و گیرندگان",
+            "درخواست اصلاح",
+            "درخواست حذف/ناشناس‌سازی در جایی که زمینه‌ها اعمال شود",
+            "اعتراض به پردازش کاملاً خودکار",
+            "اعتراض به پردازش تحت منافع مشروع",
+            "درخواست جبران خسارت برای پردازش غیرقانونی"
           ],
-          "howToApply": "How to apply: Email privacy@jobsadmire.com or info@jobsadmire.com with identity details sufficient to verify your request.",
-          "responseTime": "We respond within 30 days as per KVKK procedures.",
-          "complaintNote": "If unsatisfied, you may complain to the Personal Data Protection Authority (KVKK) after exhausting the data controller application route."
+          "howToApply": "نحوه درخواست: به privacy@jobsadmire.com یا info@jobsadmire.com با جزئیات هویتی کافی برای تأیید درخواست خود ایمیل بزنید.",
+          "responseTime": "ما ظرف ۳۰ روز طبق رویه‌های KVKK پاسخ می‌دهیم.",
+          "complaintNote": "اگر ناراضی هستید، می‌توانید پس از طی مسیر درخواست کنترل‌کننده داده، به مرجع حفاظت از داده‌های شخصی (KVKK) شکایت کنید."
         },
         "security": {
-          "sectionTitle": "12. SECURITY MEASURES",
-          "intro": "We implement administrative, technical, and physical safeguards:",
+          "sectionTitle": "۱۲. تدابیر امنیتی",
+          "intro": "ما تدابیر اداری، فنی و فیزیکی را اجرا می‌کنیم:",
           "items": [
-            "Access control and least-privilege",
-            "Encryption in transit/at rest",
-            "Network and application security",
-            "Vendor due diligence",
-            "Staff confidentiality",
-            "Backup and continuity",
-            "Regular review of data inventory"
+            "کنترل دسترسی و حداقل امتیاز",
+            "رمزنگاری در انتقال/در حالت سکون",
+            "امنیت شبکه و برنامه",
+            "بررسی دقیق فروشنده",
+            "محرمانگی کارکنان",
+            "پشتیبان‌گیری و تداوم",
+            "بررسی منظم فهرست داده‌ها"
           ]
         },
         "additional": {
-          "sectionTitle": "ADDITIONAL INFORMATION",
-          "verbisTitle": "11. VERBIS",
-          "verbisText": "Where JobsAdmire meets legal thresholds, we register with VERBIS (Data Controllers' Registry) and keep records up to date. Public VERBIS entries can be checked on the Authority portal.",
-          "childrenTitle": "13. Children's Data",
-          "childrenText": "Our services target adults and employers. We do not knowingly collect data from children; if we learn of such processing without appropriate legal basis and consent, we will delete it.",
-          "thirdPartyTitle": "14. Third-Party Links & Social Channels",
-          "thirdPartyText": "Our site may link to external services (e.g., WhatsApp, payment providers). Their privacy practices are governed by their own policies.",
-          "changesTitle": "15. Changes",
-          "changesText": "We may update this Policy to reflect changes in services or law (including future Board decisions or guidance). We will post the new version with an updated date."
+          "sectionTitle": "اطلاعات اضافی",
+          "verbisTitle": "۱۱. VERBIS",
+          "verbisText": "در جایی که JobsAdmire آستانه‌های قانونی را برآورده می‌کند، در VERBIS (ثبت کنترل‌کنندگان داده) ثبت‌نام می‌کنیم و سوابق را به‌روز نگه می‌داریم. ورودی‌های عمومی VERBIS را می‌توان در پورتال مرجع بررسی کرد.",
+          "childrenTitle": "۱۳. داده‌های کودکان",
+          "childrenText": "خدمات ما بزرگسالان و کارفرمایان را هدف قرار می‌دهد. ما آگاهانه داده‌های کودکان را جمع‌آوری نمی‌کنیم؛ اگر از چنین پردازشی بدون مبنای قانونی مناسب و رضایت مطلع شویم، آن را حذف خواهیم کرد.",
+          "thirdPartyTitle": "۱۴. لینک‌های شخص ثالث و کانال‌های اجتماعی",
+          "thirdPartyText": "سایت ما ممکن است به خدمات خارجی لینک دهد (مثلاً واتساپ، ارائه‌دهندگان پرداخت). شیوه‌های حریم خصوصی آنها تابع سیاست‌های خودشان است.",
+          "changesTitle": "۱۵. تغییرات",
+          "changesText": "ما ممکن است این سیاست را برای منعکس کردن تغییرات در خدمات یا قانون (از جمله تصمیمات یا راهنمایی‌های آتی هیئت) به‌روزرسانی کنیم. نسخه جدید را با تاریخ به‌روزرسانی شده منتشر خواهیم کرد."
         },
         "contact": {
-          "sectionTitle": "16. CONTACT",
-          "intro": "For any KVKK queries or requests, contact:",
-          "dataProtectionLabel": "Data Protection Contact",
+          "sectionTitle": "۱۶. تماس",
+          "intro": "برای هرگونه پرسش یا درخواست KVKK، تماس بگیرید:",
+          "dataProtectionLabel": "تماس حفاظت از داده",
           "dataProtectionEmail": "info@jobsadmire.com",
-          "alternativeLabel": "Alternative Email",
+          "alternativeLabel": "ایمیل جایگزین",
           "alternativeEmail": "privacy@jobsadmire.com",
-          "addressLabel": "Registered Address",
-          "addressText": "See our website footer/Contact page for full address details"
+          "addressLabel": "آدرس ثبت‌شده",
+          "addressText": "برای جزئیات کامل آدرس به فوتر وب‌سایت/صفحه تماس ما مراجعه کنید"
         },
         "footerCta": {
-          "title": "Questions About Our Privacy Policy?",
-          "description": "We're here to help. Contact us if you have any questions about how we handle your personal data.",
-          "button": "Contact Us"
+          "title": "سؤالاتی درباره سیاست حریم خصوصی ما دارید؟",
+          "description": "ما اینجا هستیم تا کمک کنیم. اگر سؤالی در مورد نحوه مدیریت داده‌های شخصی شما دارید، با ما تماس بگیرید.",
+          "button": "تماس با ما"
         }
       }
     }

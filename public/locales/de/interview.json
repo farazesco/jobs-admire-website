@@ -34,19 +34,19 @@
           "gradient": "bg-gradient-to-r von-himmel-500 zu-blau-600"
         },
         {
-          "iconKey": "Ziel",
+          "iconKey": "target",
           "title": "Technisch",
           "description": "Bewertung der Fähigkeiten",
           "gradient": "bg-gradient-to-r von-violett-500 nach-indigo-600"
         },
         {
-          "iconKey": "Uhr",
+          "iconKey": "clock",
           "title": "Timing",
           "description": "Antwortstrategie",
           "gradient": "bg-gradient-to-r von-emerald-500 bis-teal-600"
         },
         {
-          "iconKey": "Auszeichnung",
+          "iconKey": "award",
           "title": "Rückmeldung",
           "description": "Fachliche Analyse",
           "gradient": "bg-gradient-to-r von-orange-500 nach-rot-600"
@@ -110,7 +110,7 @@
             "text": "Selbstbewusst auf schwierige Fragen antworten."
           },
           {
-            "iconKey": "Benutzer",
+            "iconKey": "user",
             "text": "Einen guten ersten Eindruck hinterlassen und Gespräche positiv abschließen"
           },
           {
@@ -148,7 +148,7 @@
         "number": "02"
       },
       {
-        "iconKey": "Video",
+        "iconKey": "video",
         "title": "Übung macht den Meister",
         "description": "Nach Ihrer Coaching-Sitzung erhalten Sie eine Aufzeichnung Ihres Vorstellungsgesprächs zusammen mit spezifischem Feedback und einem individuellen Aktionsplan, um sicherzustellen, dass Sie für ein Vorstellungsgespräch gerüstet sind. Dies ist besonders hilfreich für diejenigen, die ein <strong>Vorstellungsgesprächs-Coaching für Hochschulabsolventen</strong> suchen oder für Berufstätige, die ein <strong>Karriere-Coaching für Vorstellungsgespräche</strong> benötigen.",
         "accentColor": "Himmel-600",

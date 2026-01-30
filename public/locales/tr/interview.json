@@ -28,25 +28,25 @@
       },
       "features": [
         {
-          "iconKey": "mesajKare",
+          "iconKey": "messageSquare",
           "title": "Davranışsal",
           "description": "Duruma dayalı Soru-Cevap",
           "gradient": "bg-gradient-to-r from-sky-500 to-blue-600"
         },
         {
-          "iconKey": "hedef",
+          "iconKey": "target",
           "title": "Teknik",
           "description": "Beceri değerlendirmesi",
           "gradient": "bg-gradient-to-r from-purple-500 to-indigo-600"
         },
         {
-          "iconKey": "saat",
+          "iconKey": "clock",
           "title": "Zamanlama",
           "description": "Yanıt stratejisi",
           "gradient": "bg-gradient-to-r from-emerald-500 to-teal-600"
         },
         {
-          "iconKey": "ödül",
+          "iconKey": "award",
           "title": "Geri bildirim",
           "description": "Uzman analizi",
           "gradient": "bg-gradient-to-r from-orange-500 to-red-600"
@@ -110,7 +110,7 @@
             "text": "Zor sorulara güvenle cevap verin."
           },
           {
-            "iconKey": "kullanıcı",
+            "iconKey": "user",
             "text": "Güçlü ilk izlenimler yaratın ve görüşmeleri olumlu bir şekilde kapatın"
           },
           {
@@ -130,7 +130,7 @@
     "subtitle": "Uzman koçlarımız, profesyonel mülakat hazırlığı yardımı için bu üç basit adımda size rehberlik eder:",
     "steps": [
       {
-        "iconKey": "dosyaMetin",
+        "iconKey": "fileText",
         "title": "Özel bir test görüşmesi oluşturuyoruz",
         "description": "İlk adım, özgeçmişiniz ve takip etmek istediğiniz bir iş ilanı da dahil olmak üzere sizinle ilgili bazı geçmişi paylaşmaktır. Bu adım, oturumunuzu iş türüne, sektöre ve <strong>iş görüşmesi eğitim hizmetindeki</strong> yaygın zorluklara göre uyarlamamıza yardımcı olur.",
         "accentColor": "gökyüzü-400",
@@ -148,7 +148,7 @@
         "number": "02"
       },
       {
-        "iconKey": "Video",
+        "iconKey": "video",
         "title": "Pratik yapmak mükemmelleştirir",
         "description": "Koçluk seansınızdan sonra, mülakata hazır olmanızı sağlamak için özel geri bildirim ve özel bir eylem planı ile birlikte mülakatınızın bir kaydını alacaksınız. Bu, özellikle <strong>yeni mezunlar için mülakat koçluğu</strong> arayanlar veya <strong>mülakatlar için kariyer koçluğu</strong> yaklaşımına ihtiyaç duyan profesyoneller için yararlıdır.",
         "accentColor": "gökyüzü-600",

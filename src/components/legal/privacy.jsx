@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from "react";
 import { useTranslation } from "next-i18next";
 
+// Helper function to safely get arrays from translations
+const getArrayFromTranslation = (t, key) => {
+  const result = t(key, { returnObjects: true });
+  return Array.isArray(result) ? result : [];
+};
+
 const NAV_SECTION_KEYS = {
   "data-controller": "sectionDataController",
   "scope": "sectionScope",
@@ -257,7 +263,7 @@ const PrivacyPolicy = () => {
                     {t("page.body.scope.intro")}
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                    {(t("page.body.scope.items", { returnObjects: true }) || []).map((item, index) => (
+                    {getArrayFromTranslation(t, "page.body.scope.items").map((item, index) => (
                       <div
                         key={index}
                         className="flex items-start gap-3 p-3 bg-emerald-50 rounded-lg"
@@ -294,7 +300,7 @@ const PrivacyPolicy = () => {
                     </h3>
                   </div>
                   <div className="space-y-4">
-                    {(t("page.body.dataCategories.categories", { returnObjects: true }) || []).map((item, index) => (
+                    {getArrayFromTranslation(t, "page.body.dataCategories.categories").map((item, index) => (
                       <div
                         key={index}
                         className="flex items-start gap-3 p-4 bg-purple-50 rounded-xl"
@@ -344,7 +350,7 @@ const PrivacyPolicy = () => {
                     {t("page.body.purposes.intro")}
                   </p>
                   <div className="space-y-4">
-                    {(t("page.body.purposes.items", { returnObjects: true }) || []).map((item, index) => (
+                    {getArrayFromTranslation(t, "page.body.purposes.items").map((item, index) => (
                       <div key={index} className="p-4 bg-orange-50 rounded-xl">
                         <h4 className="font-semibold text-orange-700 mb-2">
                           {item.title}
@@ -417,7 +423,7 @@ const PrivacyPolicy = () => {
                     </h3>
                   </div>
                   <div className="space-y-4">
-                    {(t("page.body.disclosures.items", { returnObjects: true }) || []).map((item, index) => (
+                    {getArrayFromTranslation(t, "page.body.disclosures.items").map((item, index) => (
                       <div
                         key={index}
                         className="flex items-start gap-3 p-4 bg-blue-50 rounded-xl"
@@ -462,7 +468,7 @@ const PrivacyPolicy = () => {
                     {t("page.body.transfers.intro")}
                   </p>
                   <div className="space-y-3">
-                    {(t("page.body.transfers.items", { returnObjects: true }) || []).map((item, index) => (
+                    {getArrayFromTranslation(t, "page.body.transfers.items").map((item, index) => (
                       <div
                         key={index}
                         className="flex items-start gap-3 p-3 bg-indigo-50 rounded-lg"
@@ -534,7 +540,7 @@ const PrivacyPolicy = () => {
                     {t("page.body.rights.intro")}
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    {(t("page.body.rights.items", { returnObjects: true }) || []).map((right, index) => (
+                    {getArrayFromTranslation(t, "page.body.rights.items").map((right, index) => (
                       <div
                         key={index}
                         className="flex items-start gap-3 p-4 bg-rose-50 rounded-xl"
@@ -589,7 +595,7 @@ const PrivacyPolicy = () => {
                     {t("page.body.security.intro")}
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                    {(t("page.body.security.items", { returnObjects: true }) || []).map((measure, index) => (
+                    {getArrayFromTranslation(t, "page.body.security.items").map((measure, index) => (
                       <div
                         key={index}
                         className="flex items-start gap-3 p-3 bg-violet-50 rounded-lg"

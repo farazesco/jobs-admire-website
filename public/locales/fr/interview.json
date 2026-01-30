@@ -34,19 +34,19 @@
           "gradient": "bg-gradient-to-r du ciel-500 au bleu-600"
         },
         {
-          "iconKey": "cible",
+          "iconKey": "target",
           "title": "Technique",
           "description": "Évaluation des compétences",
           "gradient": "bg-gradient-to-r de-violet-500 à-indigo-600"
         },
         {
-          "iconKey": "horloge",
+          "iconKey": "clock",
           "title": "Calendrier",
           "description": "Stratégie de réponse",
           "gradient": "bg-gradient-to-r from-emerald-500 to-teal-600"
         },
         {
-          "iconKey": "prix",
+          "iconKey": "award",
           "title": "Retour d'information",
           "description": "Analyse d'experts",
           "gradient": "bg-gradient-to-r de-orange-500 à-rouge-600"
@@ -110,11 +110,11 @@
             "text": "Répondre avec assurance aux questions difficiles."
           },
           {
-            "iconKey": "utilisateur",
+            "iconKey": "user",
             "text": "Faire une bonne première impression et conclure les entretiens de manière positive"
           },
           {
-            "iconKey": "tendanceHaut",
+            "iconKey": "trendingUp",
             "text": "Aborder facilement les discussions sur les lacunes en matière d'emploi, les changements d'emploi ou d'autres obstacles potentiels."
           }
         ]
@@ -148,7 +148,7 @@
         "number": "02"
       },
       {
-        "iconKey": "vidéo",
+        "iconKey": "video",
         "title": "C'est en forgeant qu'on devient forgeron",
         "description": "Après votre séance de coaching, vous recevrez un enregistrement de votre entretien ainsi que des commentaires spécifiques et un plan d'action personnalisé pour vous assurer que vous êtes prêt pour l'entretien. Ceci est particulièrement utile pour ceux qui recherchent un <strong>coaching d'entretien pour les jeunes diplômés</strong> ou pour les professionnels qui ont besoin d'une approche de <strong>coaching de carrière pour les entretiens</strong>.",
         "accentColor": "ciel-600",
