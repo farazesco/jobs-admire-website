@@ -52,7 +52,7 @@ const TurkeyHeroSection = () => {
     }
   };
 
-  const t = getTranslations();
+  const translations = getTranslations();
 
   const [formData, setFormData] = useState({
     name: "",
@@ -89,9 +89,9 @@ const TurkeyHeroSection = () => {
   }));
 
   const benefits = [
-    t.benefits.expertGuidance,
-    t.benefits.legalCompliance,
-    t.benefits.fastTrackProcessing,
+    translations.benefits.expertGuidance,
+    translations.benefits.legalCompliance,
+    translations.benefits.fastTrackProcessing,
   ];
 
   useEffect(() => {
@@ -312,16 +312,16 @@ const TurkeyHeroSection = () => {
             >
               <div className="space-y-3 sm:space-y-4">
                 <h1 className="text-2xl sm:text-3xl lg:text-5xl font-black text-sky-900 leading-tight">
-                  {t.header.title.line1}
+                  {translations.header.title.line1}
                   <span className="block text-transparent bg-clip-text bg-gradient-to-r from-sky-600 to-blue-600">
-                    {t.header.title.line2}
+                    {translations.header.title.line2}
                   </span>
                   <span className="block text-sky-800">
-                    {t.header.title.line3}
+                    {translations.header.title.line3}
                   </span>
                 </h1>
                 <p className="text-sm sm:text-base text-sky-600 max-w-lg leading-relaxed">
-                  {t.header.subtitle}
+                  {translations.header.subtitle}
                 </p>
               </div>
 
@@ -343,11 +343,11 @@ const TurkeyHeroSection = () => {
 
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 pt-4">
                 <button className="flex items-center justify-center px-5 sm:px-6 py-2.5 sm:py-3 bg-gradient-to-r from-sky-600 to-blue-600 text-white text-sm sm:text-base font-bold rounded-2xl hover:from-sky-700 hover:to-blue-700 transform hover:scale-105 transition-all duration-300 shadow-xl">
-                  {t.buttons.getPermit}
+                  {translations.buttons.getPermit}
                   <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5 ml-2" />
                 </button>
                 <button className="flex items-center justify-center px-5 sm:px-6 py-2.5 sm:py-3 border-2 border-sky-600 text-sky-600 text-sm sm:text-base font-bold rounded-2xl hover:bg-sky-50 transition-all duration-300">
-                  {t.buttons.learnMore}
+                  {translations.buttons.learnMore}
                 </button>
               </div>
             </div>
@@ -364,7 +364,7 @@ const TurkeyHeroSection = () => {
                       <div className="flex items-center text-green-800">
                         <CheckCircle className="w-5 h-5 mr-2" />
                         <span className="font-medium">
-                          {t.alerts.successMessage}
+                          {translations.alerts.successMessage}
                         </span>
                       </div>
                     </div>
@@ -374,7 +374,7 @@ const TurkeyHeroSection = () => {
                     <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-xl">
                       <div className="flex items-center text-red-800">
                         <span className="font-medium">
-                          {t.alerts.errorMessage}
+                          {translations.alerts.errorMessage}
                         </span>
                       </div>
                     </div>
@@ -386,10 +386,10 @@ const TurkeyHeroSection = () => {
                       <Shield className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
                     </div>
                     <h3 className="text-lg sm:text-xl font-bold text-sky-900 mb-2">
-                      {t.form.title}
+                      {translations.form.title}
                     </h3>
                     <p className="text-sky-600 text-sm sm:text-base">
-                      {t.form.subtitle}
+                      {translations.form.subtitle}
                     </p>
                   </div>
 
@@ -400,7 +400,7 @@ const TurkeyHeroSection = () => {
                       <input
                         type="text"
                         name="name"
-                        placeholder={t.form.placeholders.fullName}
+                        placeholder={translations.form.placeholders.fullName}
                         value={formData.name}
                         onChange={handleInputChange}
                         required
@@ -414,7 +414,7 @@ const TurkeyHeroSection = () => {
                       <input
                         type="tel"
                         name="phone"
-                        placeholder={t.form.placeholders.phoneNumber}
+                        placeholder={translations.form.placeholders.phoneNumber}
                         value={formData.phone}
                         onChange={handleInputChange}
                         required
@@ -428,7 +428,7 @@ const TurkeyHeroSection = () => {
                       <input
                         type="email"
                         name="email"
-                        placeholder={t.form.placeholders.emailAddress}
+                        placeholder={translations.form.placeholders.emailAddress}
                         value={formData.email}
                         onChange={handleInputChange}
                         required
@@ -499,18 +499,18 @@ const TurkeyHeroSection = () => {
                       {isSubmitting ? (
                         <>
                           <Loader2 className="w-4 h-4 sm:w-5 sm:h-5 mr-2 animate-spin" />
-                          {t.form.sendingText}
+                          {translations.form.sendingText}
                         </>
                       ) : (
                         <>
                           <Clock className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
-                          {t.form.submitButton}
+                          {translations.form.submitButton}
                         </>
                       )}
                     </button>
 
                     <p className="text-xs text-sky-500 text-center">
-                      {t.form.termsText}
+                      {translations.form.termsText}
                     </p>
                   </div>
                 </div>
@@ -532,10 +532,10 @@ const TurkeyHeroSection = () => {
             </div>
             <div>
               <div className="text-sm font-bold text-sky-900">
-                {t.badge.verifiedService}
+                {translations.badge.verifiedService}
               </div>
               <div className="text-xs text-sky-600">
-                {t.badge.trustedClients}
+                {translations.badge.trustedClients}
               </div>
             </div>
           </div>
