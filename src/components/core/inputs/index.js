@@ -1,0 +1,6 @@
+export { default as SelectInput } from './SelectInput'
+export { default as Input } from './Input'
+export { default as TextAreaInput } from './TextAreaInput'
+export { default as SearchInput } from './SearchInput'
+export { default as PhoneInput } from './PhoneInput'
+export { default as PasswordInput } from './PasswordInput'

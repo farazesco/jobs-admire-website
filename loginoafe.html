@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            min-height: 100vh;
+            background: linear-gradient(to bottom right, #1e3a8a, #1d4ed8, #22d3ee);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .bg-shape-1 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 384px;
+            height: 384px;
+            background: #2563eb;
+            opacity: 0.3;
+            border-radius: 50%;
+            filter: blur(96px);
+            transform: translate(-50%, -50%);
+        }
+
+        .bg-shape-2 {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 384px;
+            height: 384px;
+            background: #22d3ee;
+            opacity: 0.2;
+            border-radius: 50%;
+            filter: blur(96px);
+            transform: translate(50%, 50%);
+        }
+
+        .bg-shape-3 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 256px;
+            height: 256px;
+            background: #3b82f6;
+            opacity: 0.2;
+            border-radius: 50%;
+            filter: blur(64px);
+            transform: translate(-50%, -50%);
+        }
+
+        .container {
+            position: relative;
+            width: 100%;
+            max-width: 448px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 1.5rem;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(to bottom right, #3b82f6, #22d3ee);
+            padding: 3rem;
+            color: white;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header-shape-1 {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 160px;
+            height: 160px;
+            background: white;
+            opacity: 0.1;
+            border-radius: 50%;
+            transform: translate(50%, -50%);
+        }
+
+        .header-shape-2 {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 128px;
+            height: 128px;
+            background: #2563eb;
+            opacity: 0.2;
+            border-radius: 50%;
+            transform: translate(-50%, 50%);
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .logo {
+            margin-bottom: 1.5rem;
+        }
+
+        .logo img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            object-fit: cover;
+        }
+
+        .header h1 {
+            font-size: 1.875rem;
+            font-weight: bold;
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+
+        .login-section {
+            padding: 2rem;
+            background: white;
+        }
+
+        .login-title {
+            text-align: center;
+            color: #374151;
+            font-size: 0.875rem;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            margin-bottom: 1.5rem;
+        }
+
+        .categories {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .category-btn {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0.75rem 0.5rem;
+            border-radius: 0.5rem;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: #f3f4f6;
+            color: #4b5563;
+        }
+
+        .category-btn:hover {
+            background: #e5e7eb;
+        }
+
+        .category-btn.active {
+            background: linear-gradient(to right, #3b82f6, #22d3ee);
+            color: white;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .category-icon {
+            width: 20px;
+            height: 20px;
+            margin-bottom: 0.25rem;
+        }
+
+        .category-label {
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+            position: relative;
+        }
+
+        .input-icon {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 20px;
+            height: 20px;
+            color: white;
+        }
+
+        .form-input {
+            width: 100%;
+            background: linear-gradient(to right, #3b82f6, #22d3ee);
+            color: white;
+            padding: 0.75rem 1rem 0.75rem 3rem;
+            border-radius: 0.5rem;
+            border: none;
+            outline: none;
+            font-size: 1rem;
+        }
+
+        .form-input::placeholder {
+            color: #dbeafe;
+        }
+
+        .form-input:focus {
+            box-shadow: 0 0 0 2px #60a5fa;
+        }
+
+        .form-footer {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.875rem;
+            padding-top: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .remember-label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            color: #4b5563;
+        }
+
+        .remember-label input {
+            width: 1rem;
+            height: 1rem;
+            margin-right: 0.5rem;
+            cursor: pointer;
+        }
+
+        .forgot-link {
+            color: #22d3ee;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .forgot-link:hover {
+            color: #06b6d4;
+        }
+
+        .login-btn {
+            width: 100%;
+            background: #2563eb;
+            color: white;
+            font-weight: 600;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-size: 0.875rem;
+            margin-top: 1rem;
+        }
+
+        .login-btn:hover {
+            background: #1d4ed8;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <!-- Decorative background shapes -->
+    <div class="bg-shape-1"></div>
+    <div class="bg-shape-2"></div>
+    <div class="bg-shape-3"></div>
+
+    <!-- Main container -->
+    <div class="container">
+        <div class="card">
+            <!-- Header section -->
+            <div class="header">
+                <div class="header-shape-1"></div>
+                <div class="header-shape-2"></div>
+                
+                <div class="header-content">
+                    <div class="logo">
+                        <img src="https://via.placeholder.com/80x80/ffffff/4F46E5?text=LOGO" alt="Logo">
+                    </div>
+                    
+                    <h1>Welcome<br>To the website</h1>
+                </div>
+            </div>
+
+            <!-- Login section -->
+            <div class="login-section">
+                <h2 class="login-title">USER LOGIN</h2>
+
+                <!-- Category Selection -->
+                <div class="categories">
+                    <button class="category-btn active" data-category="agency">
+                        <svg class="category-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                        </svg>
+                        <span class="category-label">Agency</span>
+                    </button>
+                    <button class="category-btn" data-category="job-provider">
+                        <svg class="category-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                        </svg>
+                        <span class="category-label">Job Provider</span>
+                    </button>
+                    <button class="category-btn" data-category="candidate">
+                        <svg class="category-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <span class="category-label">Candidate</span>
+                    </button>
+                </div>
+
+                <!-- Login form -->
+                <form id="loginForm">
+                    <!-- Username input -->
+                    <div class="form-group">
+                        <svg class="input-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path>
+                        </svg>
+                        <input type="text" class="form-input" placeholder="Username" id="username">
+                    </div>
+
+                    <!-- Password input -->
+                    <div class="form-group">
+                        <svg class="input-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
+                        </svg>
+                        <input type="password" class="form-input" placeholder="Password" id="password">
+                    </div>
+
+                    <!-- Remember and forgot password -->
+                    <div class="form-footer">
+                        <label class="remember-label">
+                            <input type="checkbox" id="remember">
+                            <span>Remember</span>
+                        </label>
+                        <a href="#" class="forgot-link">Forgot password ?</a>
+                    </div>
+
+                    <!-- Login button -->
+                    <button type="submit" class="login-btn">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Category selection
+        const categoryBtns = document.querySelectorAll('.category-btn');
+        let selectedCategory = 'agency';
+
+        categoryBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                categoryBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                selectedCategory = btn.dataset.category;
+            });
+        });
+
+        // Form submission
+        document.getElementById('loginForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            const remember = document.getElementById('remember').checked;
+            
+            console.log('Login attempt:', {
+                category: selectedCategory,
+                username: username,
+                password: password,
+                remember: remember
+            });
+        });
+    </script>
+</body>
+</html>

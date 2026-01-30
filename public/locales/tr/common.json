@@ -1,0 +1,1813 @@
+{
+  "hero": {
+    "badge": {
+      "text": "Yeni fırsatlar mevcut"
+    },
+    "title": {
+      "findTheDream": "Rüyayı Bul",
+      "forYourself": "Kendiniz İçin"
+    },
+    "animatedWords": [
+      "İş",
+      "Takım",
+      "Kariyer",
+      "Maç",
+      "Yetenek",
+      "Personel",
+      "Rol",
+      "Pozisyon",
+      "Meslek",
+      "Fırsat",
+      "İstihdam"
+    ],
+    "subtitle": "İster işe alıyor ister iş arıyor olun, en iyi yetenekleri doğru fırsatlarla buluşturuyoruz!",
+    "search": {
+      "jobPlaceholder": "İş Unvanı veya Anahtar Kelimeler",
+      "locationPlaceholder": "Konum veya Uzak",
+      "loadingText": "İş verileri yükleniyor...",
+      "errorText": "İş verileri yüklenemedi",
+      "retryButton": "Yeniden Dene",
+      "moreResults": "daha fazla sonuç...",
+      "searchButton": "Arama Fırsatları"
+    },
+    "features": {
+      "jobRecruitment": {
+        "title": "İşe Alım",
+        "description": "Küresel çapta en iyi yetenekleri bulun"
+      },
+      "immigrationServices": {
+        "title": "Göçmenlik Hizmetleri",
+        "description": "Uzman vize yardımı"
+      },
+      "hrSolutions": {
+        "title": "İK Çözümleri",
+        "description": "Eksiksiz İK yönetimi"
+      }
+    },
+    "services": {
+      "sectionTitle": "Sizin için ne yapabiliriz?",
+      "sectionSubtitle": "Hizmetinizi seçin ve hedeflerinize ulaşmanıza yardımcı olalım",
+      "study": {
+        "label": "Çalışma",
+        "description": "Öğrenci vizesi & eğitim"
+      },
+      "migrate": {
+        "label": "Göç",
+        "description": "Oturma İzni ve Vatandaşlık"
+      },
+      "work": {
+        "label": "İş",
+        "description": "Çalışma izinleri ve işler"
+      },
+      "visit": {
+        "label": "E-Davetiye",
+        "description": "İş ve Turist vizesi"
+      },
+      "consultation": {
+        "title": "Neye ihtiyacınız olduğundan emin değil misiniz?",
+        "subtitle": "Uzman rehberliği mevcut",
+        "button": "Ücretsiz danışmanlık alın →"
+      }
+    },
+    "stats": {
+      "visaSuccess": {
+        "percentage": "98%",
+        "title": "Vize Başarı Oranı",
+        "subtitle": "Kanıtlanmış geçmiş performans"
+      },
+      "partners": {
+        "count": "500+",
+        "title": "Şirket Ortakları",
+        "subtitle": "Küresel ağ"
+      }
+    }
+  },
+  "jobsInDemand": {
+    "title": "Talep Edilen İşler",
+    "description": "Web'deki tüm açık 100+ pozisyonları arayın. Kendi kişiselleştirilmiş maaş tahmininizi alın. Dünya çapında 30'dan fazla şirket hakkındaki yorumları okuyun.",
+    "showingJobs": "Gösteriliyor",
+    "jobs": "işler",
+    "featured": "Öne Çıkan Fırsat",
+    "company": "Şirket",
+    "position": "Pozisyon",
+    "location": "Konum",
+    "salaryRange": "Maaş Aralığı",
+    "experience": "Deneyim",
+    "saveForLater": "Daha sonrası için kaydet",
+    "viewDetails": "Detayları Görüntüle",
+    "noJobsFound": "İş bulunamadı",
+    "tryAdjusting": "Arama veya filtre kriterlerinizi ayarlamayı deneyin",
+    "clearAllFilters": "Tüm Filtreleri Temizle",
+    "seeMoreJobs": "Daha Fazla İş Gör"
+  },
+  "meta": {
+    "title": "Mükemmel İş ve Kariyer Fırsatını Bulun | JobsAdmire",
+    "description": "Profesyonelleri ideal ekipler, roller ve vize destekli uluslararası fırsatlarla buluşturan küresel platform JobsAdmire ile hayalinizdeki işi keşfedin.",
+    "keywords": "Mükemmel İş ve Kariyer Fırsatını Bulun, JobsAdmire, işler, kariyer, işe alım, vize desteği, uluslararası işler",
+    "ogTitle": "Mükemmel İş ve Kariyer Fırsatını Bulun | JobsAdmire",
+    "ogDescription": "Profesyonelleri ideal ekipler, roller ve vize destekli uluslararası fırsatlarla buluşturan küresel platform JobsAdmire ile hayalinizdeki işi keşfedin."
+  },
+  "popularCategories": {
+    "badge": "Keşfedin",
+    "title": "Popüler Kategoriler",
+    "description": "Otel Yönetimi, Resepsiyonistlikten BT Yöneticiliğine kadar her profesyonel, iş fırsatları listesine, aradığınız role göre maaş tahminlerine bakabilir ve dünya çapındaki şirketlerin yorumlarını okuyarak öğrenebilir.",
+    "exploreJobs": "İş İlanlarını Keşfedin",
+    "categories": {
+      "factoryWorker": "Fabrika",
+      "healthcare": "Sağlık Hizmetleri",
+      "informationTechnology": "Tarım",
+      "tourismHospitality": "Turizm",
+      "engineeringConstruction": " İnşaat",
+      "businessServices": "İşletme Hizmetleri"
+    }
+  },
+  "immigrationCarousel": {
+    "header": {
+      "title": "Küresel Göç Destinasyonları",
+      "description": "Hayalinizdeki destinasyona giden premium göçmenlik yollarını keşfedin"
+    },
+    "navigation": {
+      "previous": "Önceki slayt",
+      "next": "Sonraki slayt",
+      "goToSlide": "{{sayı}} slaydına git",
+      "pause": "Otomatik oynatmayı duraklat",
+      "play": "Otomatik oynat",
+      "pauseText": "Duraklat",
+      "playText": "Oyun"
+    },
+    "common": {
+      "clients": "müşteriler",
+      "rating": "Değerlendirme"
+    },
+    "services": {
+      "canada": {
+        "title": "Kanada'ya Göç Edin",
+        "subtitle": "Hızlı Giriş ve İl Programları",
+        "description": "Kanada'nın Ekspres Giriş sisteminde, İl Aday Programlarında ve aile sponsorluğu yollarında gezinerek kalıcı ikamet izni alın.",
+        "category": "Daimi İkamet",
+        "buttonText": "🍁 Kanada Rüyanıza Başlayın"
+      },
+      "uk": {
+        "title": "Birleşik Krallık'a Göçmenlik",
+        "subtitle": "Vasıflı İşçi ve Küresel Yetenek Vizeleri",
+        "description": "Vasıflı işçi vizeleri, küresel yetenek rotaları ve aile birleşimi yolları aracılığıyla Birleşik Krallık'ın puan temelli göçmenlik sistemine erişin.",
+        "category": "Çalışma ve Eğitim Vizeleri",
+        "buttonText": "Birleşik Krallık Fırsatlarının Kilidini Açın"
+      },
+      "usa": {
+        "title": "ABD'ye Göç Edin",
+        "subtitle": "Yeşil Kartlar ve İstihdam Vizeleri",
+        "description": "İstihdam temelli yeşil kartlar, aile göçmenliği ve yatırımcı vize programları aracılığıyla Amerikan Rüyasının peşinden gidin.",
+        "category": "Yeşil Kart Hizmetleri",
+        "buttonText": "🗽 Amerikan Rüyasının Peşinde"
+      },
+      "australia": {
+        "title": "Avustralya'ya Göç Edin",
+        "subtitle": "Nitelikli Göç ve Eyalet Adaylığı",
+        "description": "Vasıflı bağımsız vizeler, eyalet adaylıkları ve işveren sponsorluk programları aracılığıyla Avustralya'da kalıcı oturma iznini güvence altına alın.",
+        "category": "Puan Tabanlı Sistem",
+        "buttonText": "Avustralya Yolculuğunuza Başlayın"
+      },
+      "turkey": {
+        "title": "Türkiye'ye Göç Edin",
+        "subtitle": "Oturma İzinleri ve Yatırım Yolları",
+        "description": "Gayrimenkul yatırımı, çalışma izni veya hızlı vatandaşlık seçenekleriyle aile birleşimi yoluyla Türkiye'de ikamet edin.",
+        "category": "Yatırım ve İkamet",
+        "buttonText": "Türk İkametgahını Keşfedin"
+      }
+    }
+  },
+  "serviceBanner": {
+    "default": {
+      "serviceLabel": "Profesyonel Hizmetler",
+      "title": "Kariyerinizi Dönüştürmeye Hazır mısınız?",
+      "description": "Uzman rehberliğimiz ve kapsamlı destek hizmetlerimizle kariyerlerini başarıyla ilerleten binlerce profesyonele katılın.",
+      "buttonText": "Bugün Başlayın"
+    },
+    "variants": {
+      "recruitment": {
+        "serviceLabel": "İşe Alım",
+        "title": "Hayalinizdeki İşi Bugün Bulun",
+        "description": "Dünya çapındaki en iyi işverenlerle bağlantı kurun ve becerilerinize ve isteklerinize uygun fırsatları keşfedin.",
+        "buttonText": "İş İlanlarına Gözat"
+      },
+      "immigration": {
+        "serviceLabel": "Göçmenlik Hizmetleri",
+        "title": "Küresel Fırsatlara Açılan Kapınız",
+        "description": "Karmaşık göçmenlik süreçlerinde uzman rehberliği ile yol alın ve yurt dışında çalışma hayallerinize ulaşın.",
+        "buttonText": "Göçmenlik Sürecini Başlatın"
+      },
+      "resume": {
+        "serviceLabel": "Özgeçmiş Yazımı",
+        "title": "Profesyonel Bir Özgeçmiş ile Öne Çıkın",
+        "description": "Sektör uzmanları tarafından hazırlanan ATS için optimize edilmiş özgeçmişlerle işe alım yöneticileri tarafından fark edilin.",
+        "buttonText": "Özgeçmişimi Oluştur"
+      },
+      "coaching": {
+        "serviceLabel": "Mülakat Koçluğu",
+        "title": "Bir Sonraki Mülakatınızda Ustalaşın",
+        "description": "Sektör profesyonellerinden kişiselleştirilmiş koçluk ile özgüven ve mülakat becerileri geliştirin.",
+        "buttonText": "Koçluk Seansı Rezervasyonu Yapın"
+      },
+      "visa": {
+        "serviceLabel": "Vize Desteği",
+        "title": "Vize Başvurunuzu Kolaylaştırın",
+        "description": "Çalışma, eğitim veya seyahat vizeleri için dokümantasyon ve başvuru süreçlerinde uzman yardımı alın.",
+        "buttonText": "Vize Başvurusu"
+      },
+      "skills": {
+        "serviceLabel": "Beceri Geliştirme",
+        "title": "Mesleki Becerilerinizi Yükseltin",
+        "description": "Uzmanlar tarafından tasarlanan sektörle ilgili eğitim programlarıyla rekabet gücünüzü koruyun.",
+        "buttonText": "Kursları Keşfedin"
+      }
+    }
+  },
+  "testimonials": {
+    "header": {
+      "badge": "ENDÜSTRİ LİDERLERİ TARAFINDAN GÜVENİLİR",
+      "title": "Başarı Hikayeleri",
+      "description": "Olağanüstü hizmetlerimizi ve içgörülerimizi deneyimleyen memnun müşterilerimizin görüşlerini dinleyin."
+    },
+    "stats": {
+      "years": "Yıllar",
+      "hires": "İşe alımlar",
+      "retention": "Elde tutma",
+      "support": "Destek"
+    },
+    "testimonialsList": [
+      {
+        "author": "Selin Yılmaz",
+        "position": "İnsan Kaynakları Müdürü",
+        "company": "İnsanKaynağım Ajansı",
+        "text": "Biz bir İK ajansı olarak güvenilir ortaklar arıyoruz. JobsAdmire, ihtiyaç duyduğumuz adayları zamanında ve kaliteli bir şekilde sağladı. Ekip iletişimi çok güçlü ve işe alım sürecimizi gerçekten kolaylaştırdı.",
+        "highlight": "Kültür uyumu"
+      },
+      {
+        "author": "Burak Demirtaş",
+        "position": "Direktör",
+        "company": "Anadolu İK Çözümleri",
+        "text": "Birçok platformla çalıştık fakat JobsAdmire farklı. İŞKUR ruhsatı ile yasal olarak güvenilir, belgeleri düzenleme konusunda destekçi ve tamamen şeffaf çalışıyorlar. İşe alım ihtiyaçlarımızı gönül rahatlığıyla onlara devrediyoruz",
+        "highlight": "Sektör uzmanlığı"
+      },
+      {
+        "author": "Mehmet Kaya,",
+        "position": " Fabrika Sahibi",
+        "company": "Kaya Metal Sanayi",
+        "text": "Kaynakçı ve makine operatörleri bulmakta zorlanıyorduk. JobsAdmire birkaç gün içinde eğitimli adaylarla bizi buluşturdu. Bu hizmet bize zaman ve maliyet açısından büyük fayda sağladı.",
+        "highlight": "Kaliteli adaylar"
+      },
+      {
+        "author": " Muhammad Faisal",
+        "position": "Sahib",
+        "company": "Faisal Textiles Pvt. Ltd.",
+        "text": "Tekstil fabrikam için sürekli işçi ihtiyacımız oluyor. JobsAdmire bu konuda güvenilir bir ortak oldu. Hem vasıflı hem de vasıfsız işçileri zamanında sağladılar, üretimde artık aksama yaşamıyoruz.",
+        "highlight": "Güvenlik odaklı"
+      },
+      {
+        "author": "Ali Raza",
+        "position": "Çalışan",
+        "company": "Antalya Resort Otelleri",
+        "text": "JobsAdmire aracılığıyla bir otelde işe yerleştirildim. Çalışma izni ve belgeler konusunda adım adım bana yardımcı oldular. İŞKUR lisanslı oldukları için kendimi güvende hissediyorum.",
+        "highlight": "İş-yaşam dengesi"
+      },
+      {
+        "author": "Hüseyin Çelik",
+        "position": " İnşaat İşçisi",
+        "company": "Endüstriyel Çözümler",
+        "text": "İnşaat işçisi olarak sürekli düzensiz işlerde çalışıyordum. JobsAdmire sayesinde yasal sözleşmeli ve düzenli maaşlı bir işe girdim. İşçiye saygı gösteriyorlar, kimsenin hakkını yemiyorlar.",
+        "highlight": "Uzun vadeli ortaklık"
+      }
+    ]
+  },
+  "navbar": {
+    "location": "Antalya, Türkiye",
+    "workingHours": "Pzt-Cuma 09:00-6:00",
+    "home": "Ev",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "jobs": "Mevcut İşler",
+    "visa": "Vize Davetiyeleri",
+    "residencePermit": "İkamet İzni",
+    "contact": "İletişim",
+    "blog": "Blog",
+    "cv": "Özgeçmiş Oluşturucu",
+    "resumeGenerator": "Özgeçmiş Oluşturucu",
+    "search": "Arama",
+    "register": "Kayıt Olun",
+    "login": "Giriş",
+    "toggleMenu": "Menü Değiştir",
+    "closeSearch": "Yakın Arama",
+    "searchTitle": "İş ve Hizmet Arama",
+    "searchPlaceholder": "İş, hizmet arayın...",
+    "searchButton": "Arama",
+    "popularSearches": "Popüler Aramalar",
+    "closeMenu": "Menüyü Kapat",
+    "candidateHRCompanies": "Aday & İK Şirketleri",
+    "jobProvider": "İş Sağlayıcı",
+    "partnerWithUs": "Bizimle Ortak Olun",
+    "recruitmentAgency": "İşe Alım Ajansı",
+    "megaMenu": {
+      "hero": {
+        "title": "Profesyonel Hizmetler",
+        "description": "Kariyer ve göçmenlik ihtiyaçlarınız için kapsamlı çözümler",
+        "button": "Tüm Hizmetleri Görüntüle"
+      },
+      "recruitmentServices": {
+        "title": "İşe Alım Hizmetleri",
+        "items": {
+          "resumeService": {
+            "title": "Özgeçmiş Hizmeti",
+            "description": "Profesyonel özgeçmiş yazımı"
+          },
+          "globalJobPlacement": {
+            "title": "Küresel İşe Yerleştirme",
+            "description": "Uluslararası iş fırsatları"
+          },
+          "interviewCoaching": {
+            "title": "Mülakat Koçluğu",
+            "description": "Profesyonel mülakat hazırlığı"
+          },
+          "careerCounselling": {
+            "title": "Kariyer Danışmanlığı",
+            "description": "Uzman kariyer rehberliği"
+          },
+          "visaRelocation": {
+            "title": "Vize ve Yer Değiştirme",
+            "description": "Vize ve yer değiştirme desteği"
+          }
+        }
+      },
+      "skillServices": {
+        "title": "Hizmetler",
+        "items": {
+          "skillDevelopment": {
+            "title": "Beceri Geliştirme",
+            "description": "Mesleki beceri eğitimi"
+          },
+          "remoteWork": {
+            "title": "Uzaktan Çalışma",
+            "description": "Uzaktan iş fırsatları"
+          },
+          "talentAcquisition": {
+            "title": "Yetenek Kazanımı",
+            "description": "Stratejik işe alım çözümleri"
+          },
+          "immigration": {
+            "title": "Göçmenlik Hizmetleri",
+            "description": "Göçmenlik yardımı"
+          },
+          "jobsRecruitment": {
+            "title": "İşe Alım",
+            "description": "İşe alım çözümleri"
+          }
+        }
+      },
+      "immigration": {
+        "title": "Türk Oturma İzni",
+        "items": {
+          "turkey": {
+            "title": "Türkiye Oturma İzni",
+            "description": "Türkiye oturma izni hizmetleri"
+          },
+          "workPermit": {
+            "title": "Çalışma İzni",
+            "description": "Çalışma izninizi alın"
+          },
+          "citizenship": {
+            "title": "Türk Vatandaşlığı",
+            "description": "Türkiye Vatandaşlık Hizmeti"
+          },
+          "visaInvitations": {
+            "title": "Vize Davetiyeleri",
+            "description": "Vize Hizmetleri"
+          },
+          "companyRegistration": {
+            "title": "Şirket Tescili",
+            "description": "Şirket Kaydı"
+          },
+          "dubai": {
+            "title": "Dubai Oturma İzni",
+            "description": "Dubai oturma izni hizmetleri"
+          },
+          "china": {
+            "title": "Çin Oturma İzni",
+            "description": "Çin oturma izni hizmetleri"
+          },
+          "kazakhstan": {
+            "title": "Kazakistan Oturma İzni",
+            "description": "Kazakistan oturma izni hizmetleri"
+          },
+          "albania": {
+            "title": "Arnavutluk Oturma İzni",
+            "description": "Arnavutluk oturma izni hizmetleri"
+          }
+        }
+      },
+      "visaFiling": {
+        "title": "Vize E-davetiyesi",
+        "items": {
+          "turkey": {
+            "title": "Türkiye Vizesi",
+            "description": "Türk vize hizmetleri"
+          },
+          "dubai": {
+            "title": "Dubai Vizesi",
+            "description": "Dubai vize hizmetleri"
+          },
+          "kazakhstan": {
+            "title": "Kazakistan Vizesi",
+            "description": "Kazakistan vize hizmetleri"
+          },
+          "albania": {
+            "title": "Arnavutluk Vizesi",
+            "description": "Arnavutluk vize hizmetleri"
+          },
+          "portugal": {
+            "title": "Portekiz Vizesi",
+            "description": "Portekiz vize hizmetleri"
+          }
+        }
+      }
+    },
+    "residenceDropdown": {
+      "title": "İkamet İzni Hizmetleri",
+      "items": {
+        "turkey": {
+          "title": "Türkiye Oturma İzni",
+          "description": "Türkiye oturma izni hizmetleri",
+          "href": "/göçmenlik/türkiye-ikamet-izni"
+        },
+        "dubai": {
+          "title": "Dubai Oturma İzni",
+          "description": "Dubai oturma izni hizmetleri",
+          "href": "/immigration/dubai-residence-permit"
+        },
+        "china": {
+          "title": "Çin Oturma İzni",
+          "description": "Çin oturma izni hizmetleri",
+          "href": "/immigration/china-residence-permit"
+        },
+        "kazakhstan": {
+          "title": "Kazakistan Oturma İzni",
+          "description": "Kazakistan oturma izni hizmetleri",
+          "href": "/göç/kazakistan-ikamet-izni"
+        },
+        "albania": {
+          "title": "Arnavutluk Oturma İzni",
+          "description": "Arnavutluk oturma izni hizmetleri",
+          "href": "/göçmenlik/albania-ikamet-izni"
+        }
+      }
+    },
+    "popularSearchItems": {
+      "remoteJobs": "Uzaktan İşler",
+      "softwareDeveloper": "Yazılım Geliştirici",
+      "dataAnalyst": "Veri Analisti",
+      "projectManager": "Proje Yöneticisi"
+    },
+    "mobile": {
+      "servicesIntro": "Kapsamlı profesyonel hizmet yelpazemizi keşfedin",
+      "connectWithUs": "Bizimle sosyal medyada bağlantı kurun",
+      "premiumServices": {
+        "title": "Premium Hizmetler",
+        "description": "Öncelikli destek ve garantili sonuçlar alın",
+        "button": "Premium'a Yükseltme",
+        "features": {
+          "prioritySupport": "Öncelikli Destek",
+          "guaranteedResults": "Garantili Sonuçlar"
+        }
+      }
+    }
+  },
+  "footer": {
+    "brand": {
+      "tagline": "Yeteneği Fırsatla Buluşturmak",
+      "description": "Yenilikçi İK çözümleri ve kişiselleştirilmiş işe alım hizmetleri ile kariyerleri ve işletmeleri güçlendirmek.",
+      "downloadProfile": "Şirket Profilini İndir"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "featuredServices": {
+      "servicesLabel": "Hizmetler",
+      "tabs": {
+        "findJobs": {
+          "title": "İş Bul",
+          "features": {
+            "searchVacancies": "Açık Pozisyonları Arayın",
+            "createProfile": "Profil Oluştur",
+            "applyTracking": "Takip Uygula",
+            "careerAdvice": "Kariyer Önerileri"
+          }
+        },
+        "hireTalent": {
+          "title": "Yetenekleri İşe Alın",
+          "features": {
+            "postJobOpenings": "İş İlanları Gönderin",
+            "resumeDatabase": "Özgeçmiş Veritabanı",
+            "recruitmentSolutions": "İşe Alım Çözümleri",
+            "hrConsulting": "İK Danışmanlığı"
+          }
+        },
+        "partnerWithUs": {
+          "title": "Bizimle Ortak Olun",
+          "features": {
+            "jobSeeker": "İş Arayan Biri misiniz?",
+            "employer": "İşveren misiniz?",
+            "recruitmentAgency": "İşe Alım Ajansı mısınız?",
+            "hrConsultant": "İK Danışmanı mısınız?"
+          }
+        }
+      }
+    },
+    "navigation": {
+      "jobsAdmire": {
+        "title": "JobsAdmire",
+        "links": {
+          "aboutUs": "Hakkımızda",
+          "contactUs": "Bize Ulaşın",
+          "blog": "Blog",
+          "companyCertifications": "Şirket Sertifikaları"
+        }
+      },
+      "resources": {
+        "title": "Kaynaklar",
+        "links": {
+          "residencePermitInfo": "Oturma İzni Bilgileri",
+          "invitationLetterRequest": "Davet Mektubu Talebi"
+        }
+      },
+      "jobProviders": {
+        "title": "İş Sağlayıcılar",
+        "links": {
+          "findJobs": "İş Bul",
+          "resumeGenerator": "Özgeçmiş Oluşturucu",
+          "resumeService": "Özgeçmiş Hizmeti",
+          "companyRegistration": "Şirket Tescili"
+        }
+      },
+      "jobSeekers": {
+        "title": "İş Arayanlar",
+        "links": {
+          "browseJobs": "İş İlanlarına Gözat",
+          "cvBuilder": "CV Oluşturucu",
+          "career": "Kariyer",
+          "jobsRecruitment": "İşe Alım",
+          "resumeService": "Özgeçmiş Hizmeti"
+        }
+      },
+      "employers": {
+        "title": "İşverenler",
+        "links": {
+          "postJob": "İş İlanı Gönder",
+          "findCandidates": "Adayları Bulun",
+          "hrConsulting": "İK Danışmanlığı",
+          "premiumServices": "Premium Hizmetler",
+          "immigration": "Göçmenlik"
+        }
+      },
+      "company": {
+        "title": "Şirket",
+        "links": {
+          "aboutUs": "Hakkımızda",
+          "blog": "Blog",
+          "contactUs": "Bize Ulaşın",
+          "certifications": "Sertifikalar"
+        }
+      },
+      "newLabel": "NEW"
+    },
+    "mapSection": {
+      "title": "Bizi Haritada Bulun",
+      "email": "E-posta"
+    },
+    "newsletter": {
+      "title": "İş Uyarıları ve Güncellemeleri",
+      "placeholder": "E-posta adresinizi girin",
+      "subscribe": "Abone Olun",
+      "success": "Abone olduğunuz için teşekkür ederiz!"
+    },
+    "globalPresence": {
+      "title": "Küresel Varlık",
+      "viewAll": "Tüm lokasyonları görüntüle",
+      "locations": {
+        "turkey": {
+          "city": "Türkiye",
+          "address": "Tahılpazarı, Adnan Menderes Blv. Erkal Apt A Blok No: 7 İç Kapı No: 6, 07040 Muratpaşa Antalya, Türkiye",
+          "phone": " +90 555 827 65 85"
+        },
+        "pakistan": {
+          "city": "Pakistan",
+          "address": "Ofis # 1207, Kashif Center, Hotel Mehran yakınında, Ana Shahrah e Faisal, Karaçi.",
+          "phone": "+90 552 529 68 64"
+        },
+        "azerbaijan": {
+          "city": "Azerbaycan",
+          "address": "Nizami küçəsi 203, AF business house 7- ci mərtəbə",
+          "phone": "+994 70 950 78 79"
+        },
+        "kazakhstan": {
+          "city": "Kazakistan",
+          "address": "Çok Yakında"
+        }
+      }
+    },
+    "contacts": {
+      "turkey": {
+        "country": "Türkiye",
+        "city": "Antalya",
+        "address": "Tahılpazarı, Adnan Menderes Blv. Erkal Apt A Blok No: 7 İç Kapı No: 6, 07040 Muratpaşa/Antalya",
+        "hours": "Pzt-Cuma: 9:00-18:00",
+        "phone": "+90 501 124 03 40",
+        "email": "info@jobsadmire.com"
+      },
+      "pakistan": {
+        "country": "Pakistan",
+        "city": "Karaçi",
+        "address": "Ofis # 1207, Kashif Center, Hotel Mehran yakınında, Ana Shahrah e Faisal",
+        "hours": "Pzt-Cuma: 9:00-17:00",
+        "phone": "0213 5682889",
+        "email": "info@jobsadmire.com"
+      }
+    },
+    "certification": {
+      "companyName": "Jobs Admire Özel İstihdam Bürosu Sanayi Ve Ticaret Limited Şirketi",
+      "description": "Türkiye İş Kurumu'nun 19.09.2024 tarih ve 1730 sayılı izni ile faaliyet göstermektedir. İş arayanlardan 4904 sayılı kanuna göre ücret talep edilmesi yasaktır. Şikayetleriniz için İstanbul İŞKUR İl Müdürlüğü Kadıköy Hizmet Merkezine başvurabilirsiniz. İşKur Tel: 0216 418 34 55 Eğitim mah. 1.Açıkgöz cad. No:3 KADIKÖY/İSTANBUL"
+    },
+    "copyright": {
+      "text": "Telif Hakkı © {{year}} İŞ ADMİRE ÖZEL İSTİHDAM BÜROSU SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+      "taxNo": "Vergi No: 48422122"
+    },
+    "legal": {
+      "privacy": "Gizlilik Politikası",
+      "terms": "Hizmet Koşulları",
+      "cookies": "Çerez Ayarları"
+    }
+  },
+  "servicesCarousel": {
+    "header": {
+      "badge": "Profesyonel Hizmetler",
+      "title": "Profesyonel Hizmetlerimiz",
+      "description": "Kariyer planlamasından küresel yerleştirmeye kadar, kariyer gelişiminizi hızlandırmak ve uluslararası fırsatlara kapı açmak için tasarlanmış uçtan uca profesyonel hizmetler sunuyoruz."
+    },
+    "navigation": {
+      "previous": "Önceki slayt",
+      "next": "Sonraki slayt",
+      "goTo": "Gitmek",
+      "autoPlay": "Otomatik",
+      "play": "Oyun",
+      "pause": "Otomatik oynatmayı duraklat",
+      "resume": "Otomatik oynatmayı sürdür",
+      "counter": "."
+    },
+    "services": {
+      "resumeWriting": {
+        "title": "Profesyonel Özgeçmiş Yazımı",
+        "subtitle": "ATS-Optimize Kariyer Belgeleri",
+        "description": "Otomatik sistemleri atlatan ve işe alım uzmanlarının dikkatini çeken profesyonelce hazırlanmış özgeçmişlerle kariyer hikayenizi dönüştürün. Uzman yazarlarımız, 80'den fazla sektördeki işe alım yöneticilerinin neleri aradığını anlayarak özgeçmişinizin fırsatlara kapı açmasını sağlar.",
+        "features": [
+          "ATS-Optimize Edilmiş İçerik",
+          "Sektöre Özel Yazılar",
+          "98,4 Mülakat Başarı Oranı",
+          "4 Günde Geri Dönüş"
+        ],
+        "ctaPrimary": "Özgeçmişimi Oluştur"
+      },
+      "globalJobPlacement": {
+        "title": "Küresel İşe Yerleştirme",
+        "subtitle": "Uluslararası Kariyer Fırsatları",
+        "description": "Kapsamlı uluslararası ağımız aracılığıyla en iyi küresel işverenlerle bağlantı kurun. Yetenekli profesyonelleri denizaşırı fırsatlarla eşleştiriyor, başvurudan hayalinizdeki yere yerleştirmeye kadar kapsamlı destek sağlıyoruz.",
+        "features": [
+          "Küresel İşveren Ağı",
+          "Vize Desteği Dahil",
+          "Kültürel Entegrasyon Yardımı",
+          "Hızlı İşlem Süreci"
+        ],
+        "ctaPrimary": "Küresel İşler Bulun"
+      },
+      "interviewCoaching": {
+        "title": "Mülakat Koçluğu",
+        "subtitle": "Her Mülakat Formatında Ustalaşın",
+        "description": "Sektör uzmanlarından kişiselleştirilmiş mülakat koçluğu ile sarsılmaz bir özgüven oluşturun. Sahte mülakatlarla pratik yapın, ayrıntılı geri bildirim alın ve davranışsal, teknik ve yönetici mülakatlarında başarılı olmak için kanıtlanmış stratejileri öğrenin.",
+        "features": [
+          "Sahte Mülakat Oturumları",
+          "Kişiselleştirilmiş Geri Bildirim",
+          "Sektöre Özel Koçluk",
+          "Güven Oluşturma"
+        ],
+        "ctaPrimary": "Kitap Koçluğu"
+      },
+      "careerCounselling": {
+        "title": "Kariyer Danışmanlığı",
+        "subtitle": "Stratejik Kariyer Gelişimi",
+        "description": "Kapsamlı değerlendirme araçları ve uzman rehberliği ile ideal kariyer yolunuzu keşfedin. Sertifikalı danışmanlarımız, profesyonel geleceğiniz hakkında bilinçli kararlar vermeniz için güçlü yönlerinizi, ilgi alanlarınızı ve hedeflerinizi hizalamanıza yardımcı olur.",
+        "features": [
+          "Kariyer Değerlendirme Araçları",
+          "Kişiselleştirilmiş Gelişim Planları",
+          "Uzman Danışmanlar",
+          "Hedef Odaklı Rehberlik"
+        ],
+        "ctaPrimary": "Değerlendirmeye Başlayın"
+      },
+      "visaSupport": {
+        "title": "Vize Destek Hizmetleri",
+        "subtitle": "Sorunsuz Göçmenlik Süreci",
+        "description": "Uzman rehberliği ve kapsamlı dokümantasyon desteği ile karmaşık vize başvurularında yol alın. Göçmenlik uzmanlarımız, başvurularınızın dünya çapında çalışma, eğitim veya kalıcı ikamet vizeleri için tüm gereklilikleri karşılamasını sağlar.",
+        "features": [
+          "Belge Hazırlama",
+          "Başvuru İşlemleri",
+          "Elçilik Desteği",
+          "Takip Yardımı"
+        ],
+        "ctaPrimary": "Vize Başvurusu"
+      },
+      "skillDevelopment": {
+        "title": "Beceri Geliştirme Eğitimi",
+        "subtitle": "Sektöre Hazır Profesyonel Beceriler",
+        "description": "Sektör uzmanları tarafından tasarlanan pratik, iş odaklı eğitim programları ile kariyerinizde ilerleyin. Teknik becerilerden sosyal becerilere kadar kapsamlı kurslarımız sizi günümüzün rekabetçi iş piyasasına uygulamalı öğrenme ile hazırlar.",
+        "features": [
+          "Sektörle İlgili Müfredat",
+          "Uygulamalı Projeler",
+          "Sertifikalı Eğitmenler",
+          "İşe Yerleştirme Desteği"
+        ],
+        "ctaPrimary": "Kursları Keşfedin"
+      },
+      "remoteWork": {
+        "title": "Uzaktan Çalışma Olanakları",
+        "subtitle": "Küresel Uzaktan Kariyer Erişimi",
+        "description": "Doğrulanmış küresel işverenlerden gelen seçilmiş fırsatlarla uzaktan çalışma özgürlüğünün kilidini açın. Yetenekli profesyonelleri birden fazla sektördeki yasal uzaktan pozisyonlarla buluşturarak iş-yaşam dengesi ve uluslararası kazanç potansiyeli sağlıyoruz.",
+        "features": [
+          "Doğrulanmış Uzaktan İşler",
+          "Küresel Fırsatlar",
+          "Esnek Zamanlama",
+          "İş-Yaşam Dengesi"
+        ],
+        "ctaPrimary": "Uzaktan İş Bulma"
+      },
+      "talentAcquisition": {
+        "title": "Yetenek Kazanımı",
+        "subtitle": "Stratejik İşe Alım Çözümleri",
+        "description": "Kapsamlı yetenek kazanımı hizmetlerimizle işe alım sürecinizi kolaylaştırın. Sistematik süreçler ve yenilikçi kaynak bulma teknikleri aracılığıyla kuruluşların en kaliteli adayları verimli bir şekilde çekmelerine, değerlendirmelerine ve işe almalarına yardımcı oluyoruz.",
+        "features": [
+          "Uçtan Uca İşe Alım",
+          "Aday Tarama",
+          "Mülakat Koordinasyonu",
+          "İşe Alım Desteği"
+        ],
+        "ctaPrimary": "Yetenekleri İşe Alın"
+      },
+      "immigrationConsultation": {
+        "title": "Göçmenlik Danışmanlığı",
+        "subtitle": "Eksiksiz Taşınma Desteği",
+        "description": "Daimi ikamet ve küresel yer değiştirme için kapsamlı göçmenlik yardımı ile hayatınızı dönüştürün. Sertifikalı danışmanlarımız, dünya çapındaki vasıflı işçi programları için kişiselleştirilmiş stratejiler ve eksiksiz dokümantasyon desteği sağlar.",
+        "features": [
+          "Daimi İkamet",
+          "Vasıflı İşçi Programları",
+          "Aile Göçü",
+          "Yerleşim Desteği"
+        ],
+        "ctaPrimary": "Göçmenliğe Başlayın"
+      },
+      "jobRecruitment": {
+        "title": "İşe Alım Hizmetleri",
+        "subtitle": "Profesyonel İşe Alım Çözümleri",
+        "description": "Kapsamlı iş bulma platformumuz aracılığıyla bir sonraki kariyer fırsatınızla bağlantı kurun. Yetenekli profesyoneller ile önde gelen işverenler arasında köprü kuruyor, çeşitli sektörlerde kişiselleştirilmiş iş eşleştirme ve işe alım desteği sunuyoruz.",
+        "features": [
+          "İş Eşleştirme Algoritması",
+          "Sektör Uzmanlığı",
+          "Hızlı Yerleştirme Süreci",
+          "Kariyer Rehberliği"
+        ],
+        "ctaPrimary": "İş Başvurusu Yapın"
+      }
+    }
+  },
+  "stats": {
+    "jobFulfillment": {
+      "label": "İşin Yerine Getirilmesi",
+      "subtitle": "Son çeyrekten bu yana"
+    },
+    "branches": {
+      "label": "Şubeler",
+      "subtitle": "Büyük şehirler genelinde"
+    },
+    "yearsExperience": {
+      "label": "Yıl Tecrübe",
+      "subtitle": "Sektör uzmanlığı"
+    },
+    "happyClients": {
+      "label": "Mutlu Müşteriler",
+      "subtitle": "98 memnuniyet ile"
+    }
+  },
+  "features": {
+    "targetedRecruitment": {
+      "title": "Hedefli İşe Alım",
+      "description": "Adayların iş gereklilikleriyle hassas bir şekilde eşleştirilmesi."
+    },
+    "performanceTracking": {
+      "title": "Performans Takibi",
+      "description": "İşe alım başarısını ölçmek için gelişmiş metrikler."
+    },
+    "qualityAssurance": {
+      "title": "Kalite Güvence",
+      "description": "Sunumdan önce tüm adayların kapsamlı bir şekilde incelenmesi."
+    }
+  },
+  "whatsapp": {
+    "title": "Hayran Olunan İşler",
+    "ariaLabel": "WhatsApp'ta sohbet edin"
+  },
+  "labels": {
+    "footer": {
+      "logoAlt": "İş Portalı Logosu",
+      "paymentAmex": "American Express",
+      "paymentApplePay": "Apple Pay",
+      "paymentMastercard": "Mastercard",
+      "paymentVisa": "Vize",
+      "paymentGooglePay": "Google Pay",
+      "certificationAlt": "İŞKUR Sertifikasyonu"
+    },
+    "visa": {
+      "translationError": "Çeviri Hatası",
+      "unableToLoad": "Yerel ayar için avantajlar bölümü yüklenemiyor: {{locale}}",
+      "unableToLoadTranslations": "Yerel ayar için çeviriler yüklenemiyor: {{locale}}",
+      "checkTranslationFiles": "Lütfen çeviri dosyalarınızı kontrol edin."
+    },
+    "disclaimer": {
+      "dismissAria": "Feragatnameyi iptal et",
+      "title": "Önemli Sorumluluk Reddi",
+      "body": "JobsAdmire bağımsız bir göçmenlik danışmanlığı şirketidir. Herhangi bir devlet kurumuna bağlı değiliz veya bu kurum tarafından desteklenmiyoruz. Vize veya oturma izni vermiyoruz; sadece danışmanlık ve yardım sağlıyoruz.",
+      "dismissButton": "Dağılın"
+    },
+    "login": {
+      "logoAlt": "Logo",
+      "welcomeTitle": "Hoş geldiniz",
+      "welcomeSubtitle": "Web sitesine",
+      "userLoginHeading": "KULLANICI GİRİŞİ",
+      "agency": "Ajans",
+      "jobProvider": "İş Sağlayıcı",
+      "candidate": "Aday",
+      "username": "Kullanıcı Adı",
+      "password": "Şifre",
+      "rememberMe": "Hatırla beni",
+      "forgotPassword": "Şifrenizi mi unuttunuz?",
+      "loginButton": "Giriş",
+      "placeholderUsername": "Kullanıcı Adı",
+      "placeholderPassword": "Şifre"
+    },
+    "applyOnline": {
+      "title": "Uganda Vize Başvurusu",
+      "subtitle": "Turist vizesi başvurunuzu iki basit adımda tamamlayın",
+      "stepApplication": "Uygulama",
+      "stepPayment": "Ödeme",
+      "applicationDetails": "Başvuru Detayları",
+      "paymentDetails": "Ödeme Detayları",
+      "visaTypeLabel": "Uganda'ya 90 güne kadar turist E-vizesi",
+      "visaTypeDescription": "Tek giriş (90 gün kalış) ve 3 iş günü işlem süresi",
+      "visaTypeSelectLabel": "Lütfen gerekli vize grubunu ve geçerlilik süresini seçin *",
+      "visaTypeTourist": "Turist E-vizesi 90 güne kadar",
+      "visaTypeBusiness": "Ticari E-vize 90 güne kadar",
+      "visaTypeTransit": "Transit E-vize 7 güne kadar",
+      "governmentFee": "Hükümet ücreti",
+      "saveAndContinue": "Kaydet ve Devam Et",
+      "return": "Dönüş",
+      "submitOrder": "Sipariş Gönder",
+      "termsAgreement": "İşbu belge ile",
+      "termsOfService": "Hizmet Koşulları",
+      "privacyStatement": "Gizlilik Bildirimi",
+      "termsAgreementEnd": "ve sağladığım tüm bilgi ve belgelerin bildiğim kadarıyla gerçek, doğru ve eksiksiz olduğunu onaylıyorum.",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "citizenship": "Vatandaşlık",
+      "entryDate": "Giriş Tarihi",
+      "firstName": "İlk İsim",
+      "lastName": "Soyadı",
+      "cardholderName": "Kart Sahibi Adı",
+      "cardNumber": "Kart Numarası",
+      "expiry": "MM/YY",
+      "footerCopyright": "© 2025 Uganda Vize Hizmetleri. Tüm hakları saklıdır.",
+      "placeholderFirstName": "hamza",
+      "placeholderLastName": "ali",
+      "placeholderCardholder": "hamza ali",
+      "placeholderCardNumber": "Kart numarası",
+      "placeholderExpiry": "MM/YY",
+      "feeBreakdownTitle": "Ücret Dağılımı",
+      "visaService": "Vize Hizmeti",
+      "embassyFee": "Elçilik ücreti",
+      "serviceFee": "Hizmet bedeli",
+      "total": "Toplam",
+      "months": {
+        "jan": "Jan",
+        "feb": "Şubat",
+        "mar": "Mar",
+        "apr": "Nisan",
+        "may": "Mayıs",
+        "jun": "Haziran",
+        "jul": "Temmuz",
+        "aug": "Ağustos",
+        "sep": "Eylül",
+        "oct": "Ekim",
+        "nov": "Kasım",
+        "dec": "Aralık"
+      },
+      "cvc": "CVC",
+      "placeholderEmail": "hamzahefz7885@gmail.com",
+      "placeholderPhone": "03172105055",
+      "placeholderCvc": "CVC"
+    },
+    "jobRecruitment": {
+      "metaTitle": "İşe Alım Hizmetleri | Profesyonel İşe Alım Çözümleri - JobsAdmire",
+      "metaDescription": "JobsAdmire'ın iş bulma hizmetleri ile işletmeniz için doğru yetenekleri bulun. Her büyüklükteki ve sektördeki şirketler için özel işe alım çözümleri sunuyoruz.",
+      "metaKeywords": "Küresel İşe Yerleştirme Hizmetleri, Uzman Desteği ile Yurtdışında Çalışın - JobsAdmire",
+      "ogTitle": "Açık Grafik Başlığınız",
+      "ogDescription": "Açık Grafik açıklamanız",
+      "bannerTitle": "İşe Alım Sürecinizi Dönüştürün",
+      "bannerDescription": "Uçtan uca çözümlerimizle işe alımlarınızı kolaylaştırın. Kuruluşların tüm sektörlerde ve iş seviyelerinde nitelikli adayları hızlı ve verimli bir şekilde bulmalarına yardımcı oluyoruz.",
+      "bannerButtonText": "İşe Alımlara Başlayın",
+      "bannerServiceLabel": "İŞE ALIM UZMANLARI"
+    },
+    "turkeyCitizenship": {
+      "currentCitizenship": "Mevcut Vatandaşlık"
+    },
+    "blogCards": {
+      "searchPlaceholder": "Makaleleri, konuları veya etiketleri arayın...",
+      "searchAriaLabel": "Arama",
+      "enterYourEmail": "E-posta adresinizi girin",
+      "newsletterCloseAria": "Bülten açılır penceresini kapat",
+      "backToTopAria": "Başa dön",
+      "subscriberAlt": "Abone",
+      "subscribeSuccess": "Bültenimize abone olduğunuz için teşekkür ederiz!",
+      "enterValidEmail": "Lütfen geçerli bir e-posta adresi girin",
+      "categories": {
+        "careerAdvice": "Kariyer Önerileri",
+        "jobInterviews": "İş Görüşmeleri",
+        "resumeTips": "Özgeçmiş İpuçları",
+        "remoteWork": "Uzaktan Çalışma",
+        "industryInsights": "Sektör İçgörüleri"
+      },
+      "loadMore": "Daha Fazla Yükle"
+    },
+    "candidateForm": {
+      "personalInfo": "Kişisel Bilgiler",
+      "professional": "Profesyonel",
+      "documents": "Belgeler",
+      "jobCategoryTourism": "Turizm ve Ağırlama",
+      "jobCategoryFactory": "Fabrika",
+      "jobCategoryConstruction": "İnşaat",
+      "jobCategoryAgriculture": "Tarım",
+      "name": "İsim",
+      "surname": "Soyadı",
+      "motherName": "Anne Adı",
+      "fatherName": "Baba Adı",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "dob": "Doğum Tarihi",
+      "gender": "Cinsiyet",
+      "height": "Yükseklik",
+      "weight": "Ağırlık",
+      "address": "Adres",
+      "country": "Ülke",
+      "city": "Şehir",
+      "state": "Eyalet",
+      "placeOfBirth": "Doğum Yeri",
+      "workerAbroadResidenceAddress": "Yurtdışı İşçi İkamet Adresi",
+      "passportNumber": "Pasaport Numarası",
+      "videoLink": "Video Bağlantısı",
+      "candidateLanguage": "Aday Dili",
+      "otherLanguages": "Diğer Diller",
+      "description": "Açıklama",
+      "workspace": "Çalışma Alanı",
+      "password": "Şifre",
+      "jobCategory": "İş Kategorisi",
+      "title": "Başlık",
+      "organization": "Organizasyon",
+      "startDate": "Başlangıç Tarihi",
+      "endDate": "Bitiş Tarihi",
+      "reference": "Referans",
+      "placeholderName": "İsim girin",
+      "placeholderSurname": "Soyadı girin",
+      "placeholderEmail": "E-posta girin",
+      "placeholderPhone": "Telefonu girin",
+      "placeholderAddress": "Adres girin",
+      "placeholderCountry": "Ülke seçiniz",
+      "placeholderCity": "Şehir girin",
+      "placeholderState": "Eyalet girin",
+      "placeholderPassport": "Pasaport numarasını girin",
+      "placeholderVideoLink": "Video URL'sini girin",
+      "placeholderDescription": "Açıklama girin",
+      "selectGender": "Cinsiyet seçin",
+      "submit": "Gönder",
+      "addProject": "Proje Ekle",
+      "addExperience": "Deneyim Ekleyin",
+      "addQualification": "Yeterlilik Ekle",
+      "addSkill": "Beceri Ekle",
+      "profilePhoto": "Profil Fotoğrafı",
+      "resumeFile": "Özgeçmiş",
+      "passportFile": "Pasaport",
+      "fullBodyPhoto": "Tam Vücut Fotoğrafı",
+      "biometricPhoto": "Biyometrik Fotoğraf",
+      "uploadPhoto": "Fotoğraf Yükle",
+      "changePhoto": "Fotoğraf Değiştir",
+      "validationRequired": "Bu alan zorunludur",
+      "successMessage": "Başvuru başarıyla gönderildi",
+      "weightKg": "Ağırlık (kg) *",
+      "heightCm": "Yükseklik (cm) *",
+      "placeholderWeight": "Ağırlık girin",
+      "placeholderHeight": "Yükseklik girin",
+      "uploadFullBodyPhoto": "Tam Vücut Fotoğrafı Yükleyin *",
+      "supportedFormats": "Desteklenen formatlar: JPEG, JPG, PNG (Maksimum 5MB)",
+      "factorySkills": "Fabrika Becerileri",
+      "yearsOfExperience": "Deneyim Yılları",
+      "constructionSkills": "İnşaat Becerileri",
+      "agricultureSkills": "Tarımsal Beceriler",
+      "placeholderFactorySkills": "Örneğin, Makine Operasyonu, Kalite Kontrol",
+      "placeholderExperience": "Yılların deneyimi",
+      "placeholderConstructionSkills": "Örneğin, Marangozluk, Duvarcılık, Elektrik",
+      "placeholderAgricultureSkills": "Örneğin, Çiftçilik, Hasat",
+      "stateRequired": "Devlet gereklidir",
+      "placeOfBirthRequired": "Doğum yeri gereklidir",
+      "weightRequired": "Turizm kategorisi için ağırlık gereklidir",
+      "heightRequired": "Turizm kategorisi için yükseklik gereklidir",
+      "passportNumberRequired": "Pasaport Numarası gereklidir",
+      "passportScanRequired": "Pasaport Taraması gereklidir",
+      "firstName": "İlk İsim",
+      "lastName": "Soyadı",
+      "personalInfoTitle": "Kişisel Bilgiler",
+      "locationInfoTitle": "Konum Bilgileri",
+      "currentAddress": "Güncel Adres *",
+      "stateProvince": "Eyalet/İl *",
+      "professionalInfoTitle": "Profesyonel Bilgiler",
+      "documentInfoTitle": "Belge Bilgileri",
+      "specificInformation": "Özel Bilgiler",
+      "placeholderFirstName": "İlk adınızı girin",
+      "placeholderLastName": "Soyadınızı girin",
+      "placeholderMotherName": "Annenin adını girin",
+      "placeholderFatherName": "Babanın adını girin",
+      "genderMale": "Erkek",
+      "genderFemale": "Kadın",
+      "placeholderCurrentAddress": "Tam güncel adresinizi girin",
+      "placeholderStateProvince": "Eyalet/İl",
+      "placeholderPlaceOfBirth": "Doğum yerinizi girin",
+      "placeholderWorkerAbroad": "Varsa yurt dışı ikamet adresinizi girin",
+      "selectProfession": "Mesleğinizi seçin",
+      "createPassword": "Şifre Oluştur *",
+      "placeholderCreatePassword": "Güvenli bir parola oluşturun",
+      "passwordLoginHint": "(CRM portalımıza giriş yapmak için kullanılacaktır).",
+      "placeholderCandidateLanguage": "örneğin, İngilizce, İspanyolca",
+      "placeholderOtherLanguages": "örneğin, Fransızca, Almanca (virgülle ayrılmış)",
+      "additionalDescription": "Ek Açıklama",
+      "placeholderAdditionalDescription": "İlgili ek ayrıntıları, becerileri veya deneyimi burada belirtin.",
+      "resumeCvFile": "Özgeçmiş/CV Dosyası *",
+      "passportScanFile": "Pasaport Tarama Dosyası *",
+      "supportedFormatsProfile": "Desteklenen formatlar: JPEG, JPG, PNG (Maksimum 5MB)",
+      "supportedFormatsResume": "Desteklenen formatlar: PDF, DOC, DOCX (Maksimum 2MB)",
+      "supportedFormatsPassport": "Desteklenen formatlar: JPEG, JPG, PNG, PDF (Maksimum 5MB)",
+      "supportedFormatsBiometric": "Desteklenen formatlar: JPEG, JPG, PNG (Maksimum 5MB)",
+      "supportedFormatsVideo": "Desteklenen formatlar: MP4, MOV, AVI (Maksimum 50MB)",
+      "selectedFile": "Seçildi:",
+      "videoFile": "Video Dosyası",
+      "placeholderVideoLinkExample": "örneğin, YouTube veya Vimeo bağlantısı",
+      "formTitle": "Aday Kayıt Formu",
+      "formSubtitle": "Bilgilerinizi gönderin ve ekibimize katılın!",
+      "previous": "Önceki",
+      "nextStep": "Sonraki Adım",
+      "submitting": "Gönderiyorum...",
+      "submitApplication": "Başvuru Gönder",
+      "dobRequired": "Doğum tarihi gereklidir",
+      "genderRequired": "Cinsiyet gereklidir",
+      "workerAbroadResidenceRequired": "Yurtdışı işçi ikamet adresi gereklidir",
+      "jobCategoryRequired": "İş Kategorisi gereklidir",
+      "candidateLanguageRequired": "Aday dili gereklidir",
+      "fullBodyPhotoRequiredTourism": "Turizm kategorisi için Tam Vücut Fotoğrafı gereklidir",
+      "profilePhotoRequired": "Profil Fotoğrafı gereklidir",
+      "resumeRequired": "Özgeçmiş gereklidir",
+      "profilePhotoMaxSize": "Profil fotoğrafı 5MB'den az olmalıdır",
+      "resumeMaxSize": "Özgeçmiş 2 MB'tan az olmalıdır",
+      "passportScanMaxSize": "Pasaport taraması 5 MB'den az olmalıdır",
+      "fullBodyPhotoMaxSize": "Tam vücut fotoğrafı 5 MB'den az olmalıdır",
+      "biometricPhotoMaxSize": "Biyometrik fotoğraf 5MB'den az olmalıdır",
+      "videoMaxSize": "Video 50 MB'den az olmalıdır",
+      "fixErrorsIntro": "Lütfen aşağıdaki hataları düzeltin:\n\n",
+      "selectValidJobCategory": "Lütfen geçerli bir iş kategorisi seçin",
+      "fileSizeErrorsIntro": "Dosya boyutu hataları:\n\n",
+      "submitFailed": "Başvuru gönderilemedi. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.",
+      "errorPrefix": "Hata:",
+      "unknownError": "Bilinmeyen hata oluştu",
+      "errorSubmittingApplication": "Başvuru gönderilirken hata oluştu:\n\n",
+      "referenceForm": {
+        "title": "Profesyonel Referanslar",
+        "subtitle": "Profesyonel referanslarınızı ve bağlantılarınızı ekleyin",
+        "addReference": "Referans Ekle",
+        "noteTitle": "Not: Lütfen önce iş adayı bilgilerini oluşturun",
+        "noteDescription": "Doğru referans doğrulamasını sağlamak için gerekli tüm alanları doldurun",
+        "referenceNumber": "Referans #{{number}}",
+        "removeReference": "Referansı Kaldır",
+        "organizationDetails": "Organizasyon Detayları",
+        "titleLabel": "Başlık *",
+        "titlePlaceholder": "İş unvanı veya pozisyon",
+        "organizationLabel": "Organizasyon *",
+        "organizationPlaceholder": "Şirket veya kuruluş adı",
+        "employmentPeriod": "İstihdam Dönemi",
+        "startDateLabel": "Başlangıç Tarihi *",
+        "endDateLabel": "Bitiş Tarihi *",
+        "locationDetails": "Konum Detayları",
+        "countryLabel": "Ülke *",
+        "countryPlaceholder": "Ülke",
+        "stateLabel": "Eyalet *",
+        "statePlaceholder": "Eyalet/İl",
+        "cityLabel": "Şehir *",
+        "cityPlaceholder": "Şehir",
+        "contactInformation": "İletişim Bilgileri",
+        "contactPerson": "İlgili Kişi",
+        "contactPersonPlaceholder": "İlgili kişi adı",
+        "phoneNumber": "Telefon Numarası",
+        "emailAddress": "E-posta Adresi",
+        "resetForm": "Formu Sıfırla",
+        "saveReferences": "Referansları Kaydet",
+        "phonePlaceholder": "+1 (555) 123-4567",
+        "emailPlaceholder": "contact@company.com"
+      },
+      "experienceForm": {
+        "projects": "Projeler",
+        "projectsSubtitle": "Proje detaylarınızı ekleyin",
+        "addProject": "Proje Ekle",
+        "projectNumber": "Proje #{{number}}",
+        "experienceCandidateJobs": "Tecrübeli Aday İş İlanları",
+        "experienceCandidateJobsSubtitle": "Deneyiminizi ekleyin aday iş detayları",
+        "addExperienceCandidateJob": "Deneyim Adayı İşi Ekle",
+        "experienceCandidateJobNumber": "Deneyimli Aday İş #{{number}}",
+        "qualifications": "Nitelikler",
+        "qualificationsSubtitle": "Nitelik bilgilerinizi ekleyin",
+        "addQualification": "Yeterlilik Ekle",
+        "qualificationNumber": "Yeterlilik #{{number}}",
+        "skills": "Beceriler",
+        "skillsSubtitle": "Becerilerinizin ayrıntılarını ekleyin",
+        "addSkill": "Beceri Ekle",
+        "skillNumber": "Beceri #{{sayı}}",
+        "typeLabel": "Tip *",
+        "selectType": "Tip Seçiniz",
+        "typeTechnical": "Teknik Beceriler",
+        "typeSoft": "Yumuşak Beceriler",
+        "typeLanguage": "Dil Becerileri",
+        "typeCertification": "Sertifikasyon",
+        "titleLabel": "Başlık *",
+        "titlePlaceholder": "Enter {{item}} başlığı",
+        "organizationLabel": "Organizasyon *",
+        "organizationPlaceholder": "Kuruluş/Şirket adı",
+        "startDateLabel": "Başlangıç Tarihi *",
+        "endDateLabel": "Bitiş Tarihi *",
+        "referenceLabel": "Referans",
+        "referencePlaceholder": "Referans kişi/iletişim",
+        "saveExperience": "Deneyimden Tasarruf Edin"
+      },
+      "placeholderPhoneExample": "+1 (555) 123-4567",
+      "placeholderEmailExample": "your.email@example.com"
+    },
+    "referenceForm": {
+      "firstName": "İlk İsim",
+      "lastName": "Soyadı",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "gender": "Cinsiyet",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "placeholderFirstName": "İlk adı girin",
+      "placeholderLastName": "Soyadı girin",
+      "placeholderEmail": "E-posta girin",
+      "placeholderPhone": "Telefonu girin",
+      "placeholderPassword": "Şifre girin",
+      "placeholderConfirmPassword": "Şifreyi onayla",
+      "passwordsDoNotMatch": "Parolalar eşleşmiyor",
+      "accountCreatedSuccess": "Hesabınız başarıyla oluşturuldu.",
+      "verifyEmailTo": "Lütfen e-postanızı şu adrese doğrulayın",
+      "loginToDashboard": "gösterge tablosuna giriş yapın",
+      "submitted": "Teslim edildi",
+      "submit": "Gönder"
+    },
+    "agencyMentorForm": {
+      "requestSubmittedSuccess": "Talebiniz başarıyla gönderildi, inceleyip size geri döneceğiz"
+    },
+    "residenceHero": {
+      "nameRequired": "İsim gereklidir",
+      "emailRequired": "E-posta gereklidir",
+      "phoneRequired": "Telefon gereklidir"
+    },
+    "testimonials": {
+      "previousAria": "Önceki",
+      "nextAria": "Sonraki",
+      "leftArrow": "sol ok",
+      "rightArrow": "sağ ok"
+    },
+    "blog": {
+      "previousAria": "Önceki blog",
+      "nextAria": "Sonraki blog",
+      "curatingTitle": "Şaşırtıcı İçerik Oluşturma",
+      "loadingInsights": "En son eğitim görüşlerimizi yüklüyoruz...",
+      "unableToLoadContent": "İçerik Yüklenemiyor",
+      "tryAgain": "Tekrar Deneyin",
+      "comingSoon": "Çok Yakında",
+      "comingSoonDescription": "Harika blog içeriği yolda! İlham verici eğitim bilgileri için yakında tekrar kontrol edin.",
+      "premiumBadge": "✨ Premium Eğitim İçeriği",
+      "titleEducational": "Eğitim",
+      "titleInsights": "İçgörüler",
+      "discoverTransformative": "Dönüştürücü olanı keşfedin",
+      "expertCareerGuidance": "uzman kariyer rehberliği",
+      "cuttingEdgeResources": "son teknoloji̇ eği̇ti̇m kaynaklari",
+      "thatAccelerate": "akademik yolculuğunuzu hızlandıracak",
+      "latestUpdates": "Son Güncellemeler",
+      "expertInsights": "Uzman Görüşleri",
+      "careerGuidance": "Kariyer Rehberliği",
+      "readFullArticle": "Makalenin Tamamını Oku",
+      "featured": "Öne Çıkanlar",
+      "exploreAllArticles": "Tüm Makaleleri Keşfedin",
+      "goToBlog": "Bloga git {{number}}",
+      "autoPlaying": "Otomatik oynatma",
+      "paused": "Duraklatıldı"
+    },
+    "templates": {
+      "resumeTemplates": "Özgeçmiş Şablonları",
+      "newResume": "+ Yeni Özgeçmiş",
+      "searchTemplates": "Arama şablonları...",
+      "favorites": "Favoriler",
+      "recent": "Yakın zamanda",
+      "categories": "Kategoriler",
+      "noTemplatesFound": "Şablon bulunamadı",
+      "tryAdjustingSearch": "Aramanızı veya filtrelerinizi ayarlamayı deneyin",
+      "addToFavorites": "Favorilere ekle",
+      "removeFromFavorites": "Sık kullanılanlardan kaldır",
+      "editAria": "Düzenle",
+      "deleteAria": "Silme",
+      "shareAria": "Paylaş",
+      "comingSoon": "Çok Yakında",
+      "selectATemplate": "Bir Şablon Seçin",
+      "downloadPdf": "İndir PDF",
+      "editResume": "Özgeçmişi Düzenle",
+      "selectTemplateToPreview": "Özgeçmişinizi önizlemek için soldan bir şablon seçin",
+      "all": "Tümü"
+    },
+    "visaPage": {
+      "visaStatus": "Vize Durumu",
+      "processingTime": "İşlem Süresi",
+      "validity": "Geçerlilik",
+      "visaFees": "Vize Ücretleri",
+      "selectCountry": "Ülke Seçiniz",
+      "selectDestination": "Hedef Seçin",
+      "liveChat": "Canlı sohbet",
+      "whatsApp": "WhatsApp",
+      "clickToCall": "Aramak için Tıklayınız",
+      "callUsFree": "Bizi ÜCRETSİZ arayın",
+      "visa": "VİZE",
+      "businessVisa": "Ticari vize",
+      "studentVisa": "Öğrenci vizesi",
+      "workVisa": "Çalışma vizesi",
+      "transitVisa": "Transit vize",
+      "visaRequirementsFor": "{{destination}} {{citizen}} vatandaşları için vize gereklilikleri",
+      "completeGuide": "Vize gereklilikleri, belgeler ve başvuru sürecine ilişkin eksiksiz rehber",
+      "visaRequired": "Vize Gerekli",
+      "visaNotRequired": "Vize Gerekli Değildir",
+      "tourismBusiness": "Turizm ve İş Dünyası",
+      "workImmigration": "İş ve Göçmenlik",
+      "availableVisaTypes": "Mevcut Vize Türleri",
+      "additionalRequirements": "Ek Gereksinimler",
+      "biometricsRequired": "Biyometri Gerekli",
+      "biometricsNotRequired": "Biyometri Gerekli Değil",
+      "interviewRequired": "Mülakat Gerekli",
+      "interviewNotRequired": "Mülakat Gerekli Değildir",
+      "fillOutApplication": "{{destinasyon}} doldurun Turist e-vizesi online başvuru formu",
+      "getStarted": "Başlayın",
+      "provideDigitalCopies": "Aşağıdaki belgelerin dijital kopyalarını sağlayın:",
+      "requiredDocumentsForEntry": "Giriş için gerekli belgeler:",
+      "applyForVisa": "Hedef}} için başvurun Online Vize",
+      "passportControl": "Pasaport kontrolü",
+      "travelVisaRequirements": "Seyahat Vizesi Gereklilikleri",
+      "journeyBegins": "Bazen binlerce kilometrelik bir yolculuk bir vize ile başlar.",
+      "checkDestination": "Gideceğiniz yeri kontrol edin ve dünyadaki herhangi bir vize için online başvuru yapın.",
+      "forCitizensOf": "vatandaşları için",
+      "travelingTo": "seyahat etmek",
+      "checkRequirements": "Gereksinimleri kontrol edin",
+      "weHelpYou": "Gereksinimleri anlamanıza, doğru belgeleri toplamanıza ve mülakata hazırlanmanıza yardımcı oluyoruz.",
+      "yourTravelDestination": "Seyahat hedefiniz",
+      "visaType": "Vize türü",
+      "touristVisaConvenient": "Turist vizesi (uygun)",
+      "yourCitizenship": "Vatandaşlığınız",
+      "livingIn": "içinde yaşamak",
+      "applyNow": "Şimdi başvurun",
+      "backToSearch": "Aramaya geri dön"
+    },
+    "registerCompany": {
+      "title": "Şirket Olarak Kaydolun",
+      "companyName": "Şirket Adı",
+      "companyEmail": "Şirket E-postası",
+      "phoneNumber": "Telefon Numarası",
+      "websiteUrl": "Web sitesi URL'si",
+      "industrySector": "Sanayi Sektörü",
+      "companySize": "Şirket Büyüklüğü",
+      "companyAddress": "Şirket Adresi",
+      "country": "Ülke",
+      "city": "Şehir",
+      "fullAddress": "Tam Adres",
+      "hrContactPerson": "İK / İrtibat Kişisi",
+      "fullName": "Ad Soyad",
+      "position": "Pozisyon",
+      "emailAddress": "E-posta Adresi",
+      "recruitmentPreferences": "İşe Alım Tercihleri",
+      "jobCategoriesHiring": "İşe Alım Yapılan İş Kategorileri",
+      "preferredNationalities": "Tercih Edilen Aday Uyrukları (İsteğe Bağlı)",
+      "jobTypesOffered": "Sunulan İş Türleri (Geçerli olanların tümünü seçin)",
+      "documentsUpload": "Belge Yükleme",
+      "companyRegistrationDocument": "Şirket Tescil Belgesi",
+      "optionalRecommended": "(İsteğe bağlı ama tavsiye edilir)",
+      "licenseIfAny": "Lisans (varsa)",
+      "clickToUpload": "Yüklemek için tıklayın veya sürükleyip bırakın",
+      "pdfDocMax": "PDF, DOC, DOCX (Maksimum 5MB)",
+      "accountInformation": "Hesap Bilgileri",
+      "username": "Kullanıcı Adı",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "placeholderCompanyName": "Şirket adını girin",
+      "selectIndustry": "Sektör seçin",
+      "selectCompanySize": "Şirket büyüklüğünü seçin",
+      "employees1_10": "1-10 çalışan",
+      "employees11_50": "11-50 çalışan",
+      "employees51_200": "51-200 çalışan",
+      "employees201Plus": "201+ çalışan",
+      "placeholderCountry": "Ülke girin",
+      "placeholderCity": "Şehir girin",
+      "placeholderAddress": "Tam adresi girin",
+      "placeholderFullName": "Tam adınızı girin",
+      "placeholderPosition": "Örneğin, İK Müdürü",
+      "placeholderJobCategories": "Örneğin, Yazılım Geliştirme, Pazarlama, Satış, Müşteri Hizmetleri",
+      "placeholderNationalities": "Örneğin, Herhangi biri, ABD, Kanada, Avrupa Birliği",
+      "placeholderUsername": "Bir kullanıcı adı seçin",
+      "placeholderPassword": "Şifre girin",
+      "placeholderConfirmPassword": "Şifreyi onayla",
+      "submitButton": "Şirket Kaydı",
+      "fullTime": "Tam zamanlı",
+      "partTime": "Yarı zamanlı",
+      "contract": "Sözleşme",
+      "remote": "Uzaktan Kumanda",
+      "internship": "Stajyerlik",
+      "industryTechnology": "Teknoloji",
+      "industryHealthcare": "Sağlık Hizmetleri",
+      "industryFinance": "Finans",
+      "industryEducation": "Eğitim",
+      "industryManufacturing": "Üretim",
+      "industryRetail": "Perakende",
+      "industryConstruction": "İnşaat",
+      "industryTransportation": "Ulaşım",
+      "industryEnergy": "Enerji",
+      "industryOther": "Diğer",
+      "placeholderEmail": "company@example.com",
+      "placeholderPhone": "+1 (555) 123-4567",
+      "placeholderWebsite": "https://www.company.com",
+      "placeholderHrEmail": "hr@company.com"
+    },
+    "registerCandidate": {
+      "title": "Hesabınızı Oluşturun",
+      "subtitle": "Platformumuza katılın ve bir sonraki kariyer fırsatınızı keşfedin",
+      "personalInformation": "Kişisel Bilgiler",
+      "fullName": "Ad Soyad",
+      "emailAddress": "E-posta Adresi",
+      "phoneNumber": "Telefon Numarası",
+      "optional": "(İsteğe bağlı)",
+      "preferredCountry": "Tercih Edilen Ülke",
+      "jobInformation": "İş Bilgileri",
+      "desiredJobTitle": "İstenilen İş Ünvanı",
+      "generateProfileSummary": "Profil Özeti Oluştur",
+      "generating": "Üretmek...",
+      "profileSummary": "Profil Özeti",
+      "accountSecurity": "Hesap Güvenliği",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "resumeUpload": "Özgeçmiş Yükleme",
+      "optionalInformation": "İsteğe Bağlı Bilgiler",
+      "highestQualification": "En Yüksek Yeterlilik",
+      "yearsOfExperience": "Deneyim Yılları",
+      "agreeTerms": "Kabul ediyorum",
+      "termsAndConditions": "Şartlar ve Koşullar",
+      "needVisaHelp": "Vize/çalışma/oturma izni konusunda yardım istiyorum",
+      "submitButton": "Hesap Oluştur",
+      "alreadyHaveAccount": "Zaten bir hesabınız var mı?",
+      "signInHere": "Buraya giriş yapın",
+      "placeholderFullName": "Tam adınızı girin",
+      "selectCountry": "Bir ülke seçin",
+      "placeholderJobTitle": "Örneğin, Yazılım Mühendisi",
+      "placeholderProfileSummary": "Profesyonel geçmişinizin ve hedeflerinizin kısa bir özeti...",
+      "placeholderPassword": "Güçlü bir parola oluşturun",
+      "placeholderConfirmPassword": "Şifrenizi onaylayın",
+      "resumeUploadedSuccess": "başarıyla yüklendi!",
+      "dragDropResume": "Özgeçmişinizi buraya sürükleyip bırakın veya göz atmak için tıklayın",
+      "pdfDocOnly": "Yalnızca PDF, DOC veya DOCX dosyaları (Maksimum 5MB)",
+      "selectQualification": "Yeterlilik seçin",
+      "highSchool": "Lise",
+      "bachelors": "Lisans Derecesi",
+      "masters": "Yüksek Lisans Derecesi",
+      "phd": "Doktora",
+      "other": "Diğer",
+      "selectExperience": "Deneyim seçin",
+      "experience0_1": "0-1 yaş",
+      "experience2_5": "2-5 yıl",
+      "experience6_10": "6-10 yıl",
+      "experience11_15": "11-15 yaş",
+      "experience15Plus": "15+ yıl",
+      "fileTypeError": "Dosya Türü Hatası",
+      "fileTypeErrorMessage": "Lütfen bir PDF veya DOC dosyası yükleyin.",
+      "generationFailed": "Nesil Başarısız",
+      "generationFailedMessage": "Özet oluşturulamadı. Lütfen tekrar deneyin.",
+      "apiError": "API Hatası",
+      "apiErrorMessage": "Gemini API'sine bağlanılamadı. Lütfen ağınızı kontrol edin.",
+      "placeholderEmail": "your.email@example.com",
+      "placeholderPhone": "+1 (555) 123-4567",
+      "ok": "OK"
+    },
+    "profile": {
+      "loadingProfile": "Profil yükleniyor...",
+      "backToCandidates": "Adaylara Geri Dön",
+      "location": "Konum",
+      "experience": "Deneyim",
+      "age": "Yaş",
+      "contact": "İletişim",
+      "resume": "Özgeçmiş",
+      "readyToConnect": "Bağlanmaya Hazır mısınız?",
+      "startConversation": "Sohbete Başlayın",
+      "recentlyJoined": "Yakın zamanda katıldı",
+      "greatVisibility": "Harika görünürlük!",
+      "overview": "Genel Bakış",
+      "experienceTab": "Deneyim",
+      "education": "Eğitim",
+      "portfolio": "Portföy",
+      "technicalSkills": "Teknik Beceriler",
+      "areasOfExpertise": "Uzmanlık Alanları",
+      "aboutName": "Hakkında {{name}}",
+      "profileLinkCopied": "Profil bağlantısı panoya kopyalandı!",
+      "getInTouch": "Fırsatları görüşmek ve deneyimleri hakkında daha fazla bilgi edinmek için {{isim}} ile iletişime geçin.",
+      "quickStats": "Hızlı İstatistikler",
+      "skills": "Beceriler",
+      "certifications": "Sertifikalar",
+      "profileActivity": "Profil Etkinliği",
+      "profileCreated": "Profil Oluşturuldu",
+      "profileViews": "{{count}} Profil Görünümleri",
+      "skillsUpdated": "Beceriler Güncellendi",
+      "portfolioOptimized": "Portföy optimize edildi",
+      "topSkills": "Üst Düzey Beceriler",
+      "recruiterTips": "İşveren İpuçları"
+    },
+    "humanResource": {
+      "understand": "Anlamak",
+      "understandDescription": "Özel İK çözümleri oluşturmak için kuruluşunuzun benzersiz kültürünü, zorluklarını ve hedeflerini anlayarak işe başlıyoruz.",
+      "understandBullet1": "Kapsamlı kurumsal değerlendirme",
+      "understandBullet2": "Paydaş görüşmeleri",
+      "understandBullet3": "Veri odaklı analiz",
+      "implement": "Uygulamak",
+      "implementDescription": "Uzman ekibimiz, özel ihtiyaçlarınızı karşılamak için tasarlanmış özelleştirilmiş İK stratejileri ve programları uygular.",
+      "implementBullet1": "Özel İK çözümleri",
+      "implementBullet2": "Değişim yönetimi desteği",
+      "implementBullet3": "Mevcut sistemlerle sorunsuz entegrasyon",
+      "optimize": "Optimize edin",
+      "optimizeDescription": "Sürekli iyileştirme ve yatırım getirisi sağlamak için İK süreçlerinizi sürekli olarak ölçüyor, iyileştiriyor ve optimize ediyoruz.",
+      "optimizeBullet1": "Düzenli performans değerlendirmeleri",
+      "optimizeBullet2": "Sürekli geri bildirim döngüsü",
+      "optimizeBullet3": "Sonuçlara dayalı stratejik ayarlamalar",
+      "industriesWeServe": "Hizmet Verdiğimiz Sektörler",
+      "industriesWeServeDescription": "İK uzmanlığımız, her biri kendine özgü işgücü zorlukları olan birden fazla sektöre yayılmaktadır"
+    },
+    "submitResume": {
+      "step1Title": "Özgeçmiş Yükle",
+      "step1Description": "Kariyer hikayenizi paylaşın",
+      "step2Title": "Yapay Zeka Analizi",
+      "step2Description": "Becerilerinizi analiz ediyoruz",
+      "step3Title": "Eşleşmeleri Al",
+      "step3Description": "Mükemmel işleri keşfedin",
+      "metricActiveJobs": "Aktif İşler",
+      "metricSuccessStories": "Başarı Hikayeleri",
+      "metricTopCompanies": "En İyi Şirketler",
+      "metricMatchAccuracy": "Maç Doğruluğu",
+      "feature1Title": "Akıllı Yapay Zeka Eşleştirme",
+      "feature1Description": "Benzersiz kariyer profilinizi anlayan ve sizi hedeflerinize mükemmel şekilde uyan fırsatlarla eşleştiren gelişmiş algoritmalar.",
+      "feature2Title": "Akıllı İş Keşfi",
+      "feature2Description": "Olağanüstü yetenekler arayan seçkin işverenler ve girişimlerden oluşan özel ağımızdaki gizli fırsatları keşfedin.",
+      "feature3Title": "Gerçek Zamanlı Bildirimler",
+      "feature3Description": "Kriterlerinize uygun yeni pozisyonlar açıldığında anında uyarı alın. Hayalinizdeki fırsatı bir daha asla kaçırmayın.",
+      "feature4Title": "Gizlilik Koruması",
+      "feature4Description": "Kişisel bilgileriniz şifrelenmiş ve güvenlidir. Kariyerinizde ilerlemenize yardımcı olurken gizliliğinize saygı duyuyoruz."
+    },
+    "partnerRegister": {
+      "heroTitle1": "Kariyerinize Başlayın",
+      "heroTitle2": "Türkiye'de Yolculuk",
+      "heroSubtitle": "Hayallerindeki işi Türkiye'de bulan yüzlerce profesyonele katılın. Vize işlemlerinden işe yerleştirmeye kadar her şeyi biz hallediyoruz - adaylar için tamamen ücretsiz.",
+      "registerNow": "Şimdi Kaydolun - Ücretsiz!",
+      "jobsPlaced": "Yerleştirilen İşler",
+      "visaSuccessRate": "Vize Başarı Oranı",
+      "countriesServed": "Hizmet Verilen Ülkeler",
+      "freeToJoin": "Katılmak Ücretsiz",
+      "forCandidates": "Adaylar için",
+      "whyWorkInTurkey": "Neden Türkiye'de Çalışmalı?",
+      "whyWorkInTurkeyDescription": "Türkiye'nin uluslararası profesyonellere sunduğu inanılmaz fırsatları ve yaşam tarzını keşfedin.",
+      "howItWorks": "Nasıl Çalışır",
+      "howItWorksDescription": "4 adımdan oluşan basit sürecimiz sizi başvurudan Türkiye'de çalışmaya kadar götürür.",
+      "whatWeProvide": "Ne Sağlıyoruz",
+      "whatWeProvideDescription": "Türkiye'ye başarılı bir kariyer hamlesi için ihtiyacınız olan her şey.",
+      "benefit1Title": "Ücretsiz Vize İşlemleri",
+      "benefit1Description": "Size hiçbir ücret ödemeden eksiksiz vize ve çalışma izni yardımı",
+      "benefit2Title": "Konaklama Desteği",
+      "benefit2Description": "İşyerinizin yakınında uygun konut bulma konusunda yardım",
+      "benefit3Title": "Rekabetçi Maaşlar",
+      "benefit3Description": "Türk çalışma standartlarına göre adil ücretler",
+      "benefit4Title": "Yasal Koruma",
+      "benefit4Description": "Tam yasal destek ve işçi haklarının korunması",
+      "processStep1Title": "Tam Profil",
+      "processStep1Description": "Detaylı başvurunuzu ve belgelerinizi gönderin",
+      "processStep2Title": "İş Eşleştirme",
+      "processStep2Description": "Sizi Türkiye'deki uygun işverenlerle eşleştiriyoruz",
+      "processStep3Title": "Dokümantasyon",
+      "processStep3Description": "Tüm vize başvurularını hazırlıyor ve sunuyoruz",
+      "processStep4Title": "Türkiye'ye Seyahat",
+      "processStep4Description": "Yeni kariyer yolculuğunuza Türkiye'de başlayın",
+      "fact1Title": "Büyüyen Ekonomi",
+      "fact1Fact": "5,6 GSYİH Büyümesi",
+      "fact1Description": "Yeni iş fırsatları yaratan güçlü ekonomik büyüme",
+      "fact2Title": "Çeşitli İş Gücü",
+      "fact2Fact": "500K+ Yabancı",
+      "fact2Description": "Türkiye'de çalışan büyük uluslararası topluluk",
+      "fact3Title": "Yaşam Kalitesi",
+      "fact3Fact": "Zengin Kültür",
+      "fact3Description": "Harika bir iş-yaşam dengesine sahip güzel bir ülke",
+      "fact4Title": "Stratejik Konum",
+      "fact4Fact": "Avrupa ve Asya",
+      "fact4Description": "İki kıtayı birbirine bağlayan mükemmel konum",
+      "createYourProfile": "Profilinizi Oluşturun",
+      "createYourProfileDescription": "Türkiye'deki mükemmel iş fırsatlarıyla eşleşmek için kaydınızı tamamlayın. Tamamen ücretsiz!",
+      "personalInformation": "Kişisel Bilgiler",
+      "firstName": "İlk İsim *",
+      "lastName": "Soyadı *",
+      "dateOfBirth": "Doğum Tarihi *",
+      "gender": "Cinsiyet",
+      "nationality": "Uyruk *",
+      "placeholderFirstName": "İlk adınızı girin",
+      "placeholderLastName": "Soyadınızı girin",
+      "placeholderNationality": "Örneğin, Pakistanlı, Bangladeşli",
+      "selectGender": "Cinsiyet seçin",
+      "male": "Erkek",
+      "female": "Kadın",
+      "other": "Diğer",
+      "registrationSuccess": "Kayıt başarıyla gönderildi! Profilinizi inceleyeceğiz ve 3-5 iş günü içinde potansiyel iş fırsatları için sizinle iletişime geçeceğiz.",
+      "placeholderCurrentCountry": "Şu anda yaşadığınız yer",
+      "placeholderCurrentCity": "Şu anki şehriniz",
+      "placeholderPhone": "+92 xxx xxx xxxx",
+      "selectStatus": "Durum seçin",
+      "single": "Tek kişilik",
+      "married": "Evli",
+      "divorced": "Boşanmış",
+      "widowed": "Dul",
+      "selectNumber": "Numara seçiniz",
+      "children4Plus": "4 veya daha fazla",
+      "placeholderJobTitle": "Örneğin, Makine Operatörü, Yazılım Geliştirici",
+      "industryExperience": "Sektör Deneyimi",
+      "industryExperienceRequired": "Sektör deneyimi gereklidir",
+      "selectIndustry": "Sektör seçin",
+      "industryManufacturing": "Üretim",
+      "industryConstruction": "İnşaat",
+      "industryTechnology": "Teknoloji/IT",
+      "industryHealthcare": "Sağlık Hizmetleri",
+      "industryHospitality": "Misafirperverlik",
+      "industryEducation": "Eğitim",
+      "industryAgriculture": "Tarım",
+      "industryLogistics": "Lojistik/Taşımacılık",
+      "industryRetail": "Perakende/Satış",
+      "industrySecurity": "Güvenlik",
+      "industryOther": "Diğer",
+      "selectExperience": "Deneyim seçin",
+      "experience0_1": "0-1 yaş",
+      "experience1_3": "1-3 yıl",
+      "experience3_5": "3-5 yıl",
+      "experience5_10": "5-10 yıl",
+      "experience10Plus": "10+ yıl",
+      "placeholderSalary": "örneğin, 500$, ₹50,000, 1000€",
+      "expectedSalary": "Beklenen Maaş",
+      "selectSalaryRange": "Maaş aralığını seçin",
+      "salary17000_20000": "17.000 - 20.000 TL",
+      "salary20000_25000": "20,000 - 25,000 TL",
+      "salary25000_30000": "25,000 - 30,000 TL",
+      "salary30000_40000": "30,000 - 40,000 TL",
+      "salary40000Plus": "40.000+ TL",
+      "availabilityDate": "Kullanılabilirlik",
+      "selectAvailability": "Uygunluğu seçin",
+      "availabilityImmediately": "Derhal",
+      "availability1Month": "1 ay içinde",
+      "availability2Months": "2 ay içinde",
+      "availability3Months": "3 ay içinde",
+      "availabilityFlexible": "Esnek",
+      "educationLevel": "Eğitim Seviyesi",
+      "educationLevelRequired": "Eğitim seviyesi gereklidir",
+      "selectEducationLevel": "Eğitim seviyesini seçin",
+      "educationPrimary": "İlkokul",
+      "educationSecondary": "Ortaokul",
+      "educationHighSchool": "Lise",
+      "educationDiploma": "Diploma",
+      "educationBachelors": "Lisans Derecesi",
+      "educationMasters": "Yüksek Lisans Derecesi",
+      "educationPhD": "Doktora",
+      "educationOther": "Diğer",
+      "skills": "Beceriler",
+      "placeholderSkills": "örneğin, kaynak yapmak, araba kullanmak, yemek pişirmek",
+      "turkishLevel": "Türkçe Seviyesi",
+      "englishLevel": "İngilizce Seviyesi",
+      "selectLevel": "Seviye seçin",
+      "levelBasic": "Temel",
+      "levelIntermediate": "Orta seviye",
+      "levelAdvanced": "Gelişmiş",
+      "levelFluent": "Akıcı",
+      "passportNumber": "Pasaport Numarası",
+      "placeholderPassport": "Pasaport numarasını girin",
+      "motivation": "Motivasyon Mektubu",
+      "placeholderMotivation": "Neden Türkiye'de çalışmak istiyorsunuz?",
+      "hearAboutUs": "Bizi nasıl duydunuz?",
+      "selectHearAboutUs": "Seçeneği seçin",
+      "hearAboutGoogle": "Google",
+      "hearAboutFacebook": "Facebook",
+      "hearAboutFriend": "Arkadaş/Tavsiye",
+      "hearAboutOther": "Diğer",
+      "fieldOfStudy": "Çalışma Alanı",
+      "placeholderFieldOfStudy": "Örneğin, Makine Mühendisliği, Bilgisayar Bilimi",
+      "universityInstitution": "Üniversite/Kurum",
+      "placeholderUniversity": "Okulunuzun/üniversitenizin adı",
+      "graduationYear": "Mezuniyet Yılı",
+      "additionalCertifications": "Ek Sertifikalar",
+      "placeholderAdditionalCertifications": "Tamamladığınız tüm mesleki sertifikaları, kursları veya eğitimleri listeleyin",
+      "skillsAndLanguages": "Beceriler & Diller",
+      "professionalSkills": "Profesyonel Beceriler",
+      "placeholderProfessionalSkills": "Temel becerilerinizi, yazılım bilginizi, makine deneyiminizi vb. listeleyin.",
+      "languagesYouSpeak": "Konuştuğunuz Diller",
+      "turkishLanguageLevel": "Türkçe Dil Seviyesi",
+      "englishLanguageLevel": "İngilizce Dil Seviyesi",
+      "noTurkish": "Türkçe yok",
+      "noEnglish": "İngilizce yok",
+      "nativeFluent": "Anadil / Akıcı",
+      "documentsAndLegal": "Belgeler & Yasal Bilgiler",
+      "placeholderPassportNumber": "Pasaport numaranız",
+      "passportExpiryDate": "Pasaport Son Geçerlilik Tarihi",
+      "criminalRecordStatus": "Sabıka Kaydı Durumu",
+      "healthStatus": "Sağlık Durumu",
+      "cleanRecord": "Temiz Kayıt",
+      "minorOffenses": "Küçük Suçlar",
+      "preferNotToSay": "Söylememeyi Tercih Ediyorum",
+      "excellent": "Mükemmel",
+      "good": "İyi",
+      "fair": "Adil",
+      "haveMedicalConditions": "Tıbbi Koşullara Sahip Olmak",
+      "hasWorkedAbroad": "Daha önce yurt dışında çalıştım",
+      "relocationPreferences": "Yer Değiştirme Tercihleri",
+      "relocationType": "Yer Değiştirme Türü",
+      "accommodationPreference": "Konaklama Tercihi",
+      "selectPreference": "Tercih seçin",
+      "temporary": "Geçici (1-2 yıl)",
+      "longTerm": "Uzun vadeli (3-5 yıl)",
+      "permanentRelocation": "Kalıcı yer değiştirme",
+      "flexible": "Esnek",
+      "companyProvided": "Şirket Tarafından Sağlanan",
+      "ownArrangement": "Kendi Düzenlememiz",
+      "sharedAccommodation": "Ortak Konaklama",
+      "familyAccommodation": "Aile Konaklama",
+      "placeholderEmail": "your.email@example.com",
+      "children0": "0",
+      "children1": "1",
+      "children2": "2",
+      "children3": "3",
+      "placeholderGraduationYear": "2020"
+    },
+    "general": {
+      "jobsAdmireLogo": "JobsAdmire Logo",
+      "selectLanguageAria": "Dil Seçiniz",
+      "partnersSectionDescription": "Bize güvendikleri için ortaklarımıza son derece minnettarız. Güveniniz ve sarsılmaz desteğiniz ortak başarımıza yön veriyor.",
+      "bannerImageAlt": "Banner Görüntüsü",
+      "profileAlt": "Profil",
+      "bannerAlt": "Banner Görüntüsü",
+      "noDataAvailable": "Veri mevcut değil",
+      "whyChooseUsAlt": "Neden Bizi Seçmelisiniz",
+      "getStartedToday": "Bugün Başlayın",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "address": "Adres",
+      "contact": "İletişim",
+      "aboutMe": "Benim hakkımda",
+      "skills": "Beceriler",
+      "achievements": "Başarılar",
+      "experience": "Deneyim",
+      "education": "Eğitim",
+      "projects": "Projeler",
+      "references": "Referanslar",
+      "contactMe": "Bana Ulaşın",
+      "jobExperience": "İş Deneyimi",
+      "proSkills": "Profesyonel Beceriler",
+      "resumeBuilder": "Özgeçmiş Oluşturucu",
+      "chooseTemplate": "Bir Şablon Seçin",
+      "updateResume": "Özgeçmişi güncelle!",
+      "generatePdf": "PDF olarak oluştur",
+      "generatingPdf": "Üretmek...",
+      "ukFlagAlt": "Birleşik Krallık Bayrağı",
+      "pawAndHeartAria": "pençe ve kalp",
+      "pawAndAustraliaAria": "paw ve avustralya",
+      "cropPreviewAlt": "Mahsul önizlemesi",
+      "previewAlt": "Önizleme",
+      "removeReference": "Referansı Kaldır",
+      "selectSortOrder": "Sıralama düzenini seçin"
+    },
+    "search": {
+      "degree": "Derece",
+      "allDegrees": "Tüm Dereceler",
+      "noDegreeFound": "Derece Bulunamadı",
+      "university": "Üniversite",
+      "allUniversities": "Tüm Üniversiteler",
+      "loadingUniversities": "Üniversiteler Yükleniyor...",
+      "noUniversityFound": "Üniversite Bulunamadı",
+      "program": "Program",
+      "allPrograms": "Tüm Programlar",
+      "loadingPrograms": "Programlar Yükleniyor...",
+      "pleaseSelectUniversity": "Lütfen bir Üniversite seçin",
+      "noProgramFound": "Program Bulunamadı",
+      "country": "Ülke",
+      "allCountries": "Tüm Ülkeler",
+      "city": "Şehir",
+      "allCities": "Tüm Şehirler",
+      "searchIn": "Search in {{entityName}}"
+    },
+    "filters": {
+      "openFilter": "Açık Filtre",
+      "closeFilter": "Filtreyi Kapat",
+      "sortBy": "Sırala:",
+      "noFilters": "Filtre Yok",
+      "clear": "Temiz"
+    },
+    "performance": {
+      "stats": {
+        "jobFulfillment": "İşin Yerine Getirilmesi",
+        "sinceLastQuarter": "Son çeyrekten bu yana",
+        "branches": "Şubeler",
+        "acrossMajorCities": "Büyük şehirler genelinde",
+        "yearsExperience": "Yıl Tecrübe",
+        "industryExpertise": "Sektör uzmanlığı",
+        "happyClients": "Mutlu Müşteriler",
+        "withSatisfaction": "98 memnuniyet ile"
+      },
+      "features": {
+        "targetedRecruitment": "Hedefli İşe Alım",
+        "targetedRecruitmentDesc": "Adayların iş gereklilikleriyle hassas bir şekilde eşleştirilmesi.",
+        "performanceTracking": "Performans Takibi",
+        "performanceTrackingDesc": "İşe alım başarısını ölçmek için gelişmiş metrikler.",
+        "qualityAssurance": "Kalite Güvence",
+        "qualityAssuranceDesc": "Sunumdan önce tüm adayların kapsamlı bir şekilde incelenmesi."
+      },
+      "growth": {
+        "trajectory": "BÜYÜME YÖRÜNGESI",
+        "title": "Yıldan Yıla Tutarlı Büyüme",
+        "description": "Metriklerimiz, tüm temel göstergelerde tutarlı bir performans gelişimi göstermektedir. Erişim alanımızı genişletmeye ve hizmetlerimizi geliştirmeye devam ediyoruz."
+      },
+      "metrics": {
+        "title": "Performans Ölçütleri",
+        "subtitle": "Detaylı analitik görselleştirme",
+        "jobSuccessRate": "İş Başarı Oranı",
+        "clientRetention": "Müşteriyi Elde Tutma",
+        "candidateSatisfaction": "Aday Memnuniyeti"
+      }
+    },
+    "jobs": {
+      "all": "Tümü",
+      "marketing": "Pazarlama",
+      "development": "Geliştirme",
+      "fulltime": "Tam Zamanlı",
+      "parttime": "Yarı Zamanlı",
+      "contract": "Sözleşme",
+      "freelance": "Serbest Çalışma",
+      "seo": "SEO"
+    },
+    "blogDetail": {
+      "loadingBlog": "Blog yükleniyor...",
+      "errorLoadingBlog": "Blog Yüklenirken Hata Oluştu",
+      "backToBlogs": "Bloglara Geri Dön",
+      "blogNotFound": "Blog Bulunamadı",
+      "blogNotFoundMessage": "Aradığınız blog bulunamadı.",
+      "save": "Kaydet",
+      "share": "Paylaş",
+      "linkCopied": "Bağlantı panoya kopyalandı!",
+      "introduction": "Giriş",
+      "conclusion": "Sonuç",
+      "thankYouMessage": "Bu makaleyi okuduğunuz için teşekkür ederiz. Umarız bilgilendirici ve değerli bulmuşsunuzdur.",
+      "writtenBy": "Tarafından yazıldı:",
+      "publishedOn": "Yayınlanma tarihi",
+      "tableOfContents": "İçindekiler",
+      "content": "İçerik",
+      "stayUpdated": "Güncel Kalın",
+      "newsletterDescription": "En son burs fırsatlarını gelen kutunuza alın",
+      "subscribe": "Abone Olun",
+      "relatedArticles": "İlgili Makaleler",
+      "moreArticlesAbout": "Hakkında daha fazla makale",
+      "viewAllBlogPosts": "Tüm blog yazılarını görüntüle",
+      "minRead": "dakika okuma"
+    }
+  }
+}
