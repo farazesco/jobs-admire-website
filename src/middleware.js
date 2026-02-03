@@ -7,8 +7,7 @@ const DEFAULT_LOCALE = 'en';
 // For local testing: set this to a country code to simulate geo-detection
 // e.g., 'TR' for Turkey, 'SA' for Saudi Arabia, 'IR' for Iran
 // Set to null for production behavior
-// TEMPORARILY SET TO 'TR' FOR TESTING - CHANGE BACK TO null FOR PRODUCTION
-const LOCAL_TEST_COUNTRY = 'TR';
+const LOCAL_TEST_COUNTRY = null;
 
 // Country code to locale mapping
 const COUNTRY_LOCALE_MAP = {
@@ -96,26 +95,23 @@ function shouldExcludePath(pathname) {
 export function middleware(request) {
   const { pathname } = request.nextUrl;
   
-  console.log('[Middleware] Running for path:', pathname);
-  
   // Skip excluded paths
   if (shouldExcludePath(pathname)) {
-    console.log('[Middleware] Skipping excluded path');
     return NextResponse.next();
   }
   
   // Get user's locale preference from cookie
   const localeCookie = request.cookies.get('NEXT_LOCALE')?.value;
-  console.log('[Middleware] Cookie value:', localeCookie);
   
   // If user has a saved preference, respect it (don't redirect)
   if (localeCookie && SUPPORTED_LOCALES.includes(localeCookie)) {
-    console.log('[Middleware] Respecting cookie preference, no redirect');
     return NextResponse.next();
   }
   
-  // Get current locale from URL
-  const currentLocale = getLocaleFromPathname(pathname);
+  // Get current locale from URL or Next.js locale
+  // Note: When Next.js i18n is enabled, the locale prefix is stripped from pathname
+  // We need to check the nextUrl.locale which contains the actual locale
+  const currentLocale = request.nextUrl.locale || getLocaleFromPathname(pathname);
   
   // Get country from various sources (in order of priority):
   // 1. Query parameter for testing (e.g., ?country=TR)
@@ -133,10 +129,6 @@ export function middleware(request) {
   // Determine the target locale based on country
   const targetLocale = getLocaleFromCountry(country);
   
-  // Log for debugging (only in development)
-  if (process.env.NODE_ENV === 'development') {
-    console.log(`[Geo Middleware] Country: ${country || 'unknown'}, Target: ${targetLocale}, Current: ${currentLocale}`);
-  }
   
   // If already on the correct locale, continue without redirect
   if (currentLocale === targetLocale) {
@@ -189,7 +181,8 @@ export function middleware(request) {
 // Configure which paths the middleware runs on
 export const config = {
   matcher: [
-    // Match all paths except static files and API routes
-    '/((?!api|_next/static|_next/image|favicon.ico|.*\\..*).*)',
+    // Match root and all page paths
+    '/',
+    '/((?!api|_next|favicon.ico).*)',
   ],
 };
