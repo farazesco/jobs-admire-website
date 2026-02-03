@@ -69,6 +69,10 @@ const LanguageSwitcher = () => {
   const handleLanguageChange = async (languageCode) => {
     setIsOpen(false);
 
+    // Set cookie to remember user's language preference (overrides geo-detection)
+    // Cookie expires in 1 year
+    document.cookie = `NEXT_LOCALE=${languageCode}; path=/; max-age=${60 * 60 * 24 * 365}; SameSite=Lax`;
+
     // Push to the same route but with different locale
     await router.push(router.asPath, router.asPath, {
       locale: languageCode,
