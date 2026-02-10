@@ -382,6 +382,10 @@
             "title": "دعوت‌نامه‌های ویزا",
             "description": "خدمات ویزا"
           },
+          "hireWorkers": {
+            "title": "استخدام کارگر",
+            "description": "راه‌حل‌های تامین نیروی کار"
+          },
           "companyRegistration": {
             "title": "ثبت شرکت",
             "description": "ثبت یک شرکت"

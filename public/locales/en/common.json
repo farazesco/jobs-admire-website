@@ -385,6 +385,10 @@
             "title": "Visa Invitations",
             "description": "Visa Services"
           },
+          "hireWorkers": {
+            "title": "Hire Workers",
+            "description": "Workforce Recruitment Solutions"
+          },
           "companyRegistration": {
             "title": "Company Registration",
             "description": "Register a Company"

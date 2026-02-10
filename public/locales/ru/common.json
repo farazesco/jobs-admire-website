@@ -382,6 +382,10 @@
             "title": "Visa Invitations",
             "description": "Visa Services"
           },
+          "hireWorkers": {
+            "title": "Наём работников",
+            "description": "Решения по подбору персонала"
+          },
           "companyRegistration": {
             "title": "Company Registration",
             "description": "Register a Company"

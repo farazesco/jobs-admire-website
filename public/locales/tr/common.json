@@ -382,6 +382,10 @@
             "title": "Vize Davetiyeleri",
             "description": "Vize Hizmetleri"
           },
+          "hireWorkers": {
+            "title": "İşçi Alımı",
+            "description": "İşgücü İstihdam Çözümleri"
+          },
           "companyRegistration": {
             "title": "Şirket Tescili",
             "description": "Şirket Kaydı"

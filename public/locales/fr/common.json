@@ -382,6 +382,10 @@
             "title": "Invitations Visa",
             "description": "Services des visas"
           },
+          "hireWorkers": {
+            "title": "Embaucher des travailleurs",
+            "description": "Solutions de recrutement"
+          },
           "companyRegistration": {
             "title": "Enregistrement de l'entreprise",
             "description": "Enregistrer une société"

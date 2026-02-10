@@ -604,6 +604,21 @@ const Navbar = () => {
                             }
                           )}
                         />
+                        <MegaMenuItem
+                          href="/hire-workers-in-turkey"
+                          text={t(
+                            "navbar.megaMenu.immigration.items.hireWorkers.title",
+                            {
+                              defaultValue: "Hire Workers",
+                            }
+                          )}
+                          description={t(
+                            "navbar.megaMenu.immigration.items.hireWorkers.description",
+                            {
+                              defaultValue: "Workforce Recruitment Solutions",
+                            }
+                          )}
+                        />
 {/* Disabled: Company Registration page
                         <MegaMenuItem
                           href="/register-your-company"
@@ -886,6 +901,15 @@ const Navbar = () => {
                           "navbar.megaMenu.immigration.items.citizenship.title",
                           {
                             defaultValue: "Turkish Citizenship",
+                          }
+                        )}
+                      />
+                      <MobileSubMenuItem
+                        href="/hire-workers-in-turkey"
+                        text={t(
+                          "navbar.megaMenu.immigration.items.hireWorkers.title",
+                          {
+                            defaultValue: "Hire Workers",
                           }
                         )}
                       />

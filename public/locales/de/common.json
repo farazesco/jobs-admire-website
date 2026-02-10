@@ -382,6 +382,10 @@
             "title": "Visa-Einladungen",
             "description": "Visa-Dienste"
           },
+          "hireWorkers": {
+            "title": "Arbeitskräfte einstellen",
+            "description": "Personalbeschaffungslösungen"
+          },
           "companyRegistration": {
             "title": "Registrierung des Unternehmens",
             "description": "Ein Unternehmen anmelden"

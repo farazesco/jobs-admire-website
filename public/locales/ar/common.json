@@ -382,6 +382,10 @@
             "title": "دعوات التأشيرة",
             "description": "خدمات التأشيرات"
           },
+          "hireWorkers": {
+            "title": "توظيف العمال",
+            "description": "حلول توظيف القوى العاملة"
+          },
           "companyRegistration": {
             "title": "تسجيل الشركة",
             "description": "تسجيل شركة"

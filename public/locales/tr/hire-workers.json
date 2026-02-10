@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "Türkiye'de İşçi Alımı | İşgücü İstihdam Çözümleri | JobsAdmire",
+    "description": "Türkiye'deki işletmeniz için nitelikli ve niteliksiz işgücü kiralayın. JobsAdmire, fabrikalar, inşaat ve endüstriyel işverenler için güvenilir uluslararası istihdam ve işgücü çözümleri sunar."
+  },
+  "hero": {
+    "title": {
+      "line1": "Nitelikli ve",
+      "line2": "Niteliksiz İşgücü",
+      "line3": "Türkiye'deki İşletmeniz İçin"
+    },
+    "subtitle": "JobsAdmire, Türk şirketlerine, fabrikalara ve endüstriyel işverenlere kısa ve uzun vadeli operasyonel ihtiyaçlar için güvenilir işgücü kaynağı, tarama ve işe alım hizmeti sunar.",
+    "benefits": {
+      "scalable": "Ölçeklenebilir işe alım çözümleri",
+      "laborSupply": "Nitelikli ve genel işgücü temini",
+      "tailored": "Sektörünüze özel istihdam desteği"
+    },
+    "buttons": {
+      "requestSupport": "İşgücü Desteği Talep Et",
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "illustration": {
+      "title": "Uluslararası İstihdam",
+      "subtitle": "Güvenilir İşgücü Çözümleri",
+      "workforceSolutions": "İŞGÜCÜ ÇÖZÜMLERİ",
+      "readyToDeploy": "Çalışmaya Hazır",
+      "skilled": "Nitelikli",
+      "semiSkilled": "Yarı Nitelikli",
+      "general": "Genel",
+      "available": "Mevcut",
+      "preScreened": "Ön Taramalı Adaylar"
+    }
+  },
+  "workforceTypes": {
+    "title": {
+      "part1": "Sunduğumuz",
+      "part2": "İşgücü Türleri"
+    },
+    "subtitle": "İş ihtiyaçlarınıza göre doğru işgücünü seçin",
+    "availabilityLabel": "Uygunluk:",
+    "skilled": {
+      "title": "Nitelikli İşgücü",
+      "description": "Teknik ve uzmanlık gerektiren roller için",
+      "items": {
+        "technicians": "Teknisyenler ve makine operatörleri",
+        "welders": "Kaynakçılar, elektrikçiler ve mekanikçiler",
+        "engineers": "Mühendisler ve süpervizörler",
+        "it": "BT ve teknik personel"
+      },
+      "availability": "Proje bazlı veya uzun vadeli"
+    },
+    "semiSkilled": {
+      "title": "Yarı Nitelikli İşgücü",
+      "description": "Operasyonel ve üretim desteği için",
+      "items": {
+        "assembly": "Montaj hattı işçileri",
+        "production": "Üretim asistanları",
+        "warehouse": "Depo ve lojistik personeli",
+        "packaging": "Paketleme ve kalite yardımcıları"
+      },
+      "availability": "Esnek dağıtım"
+    },
+    "unskilled": {
+      "title": "Genel / Niteliksiz İşgücü",
+      "description": "Yüksek hacimli işgücü ihtiyaçları için",
+      "items": {
+        "factory": "Fabrika işçileri",
+        "construction": "İnşaat yardımcıları",
+        "cleaning": "Temizlik ve tesis personeli",
+        "agricultural": "Tarım ve gıda işleme işçileri"
+      },
+      "availability": "Talebe göre ölçeklenebilir"
+    },
+    "corporate": {
+      "title": "Kurumsal ve Destek Rolleri",
+      "description": "Ofis ve operasyonel ekipler için",
+      "items": {
+        "admin": "İdari personel",
+        "sales": "Satış desteği",
+        "customer": "Müşteri hizmetleri",
+        "backoffice": "Arka ofis personeli"
+      },
+      "availability": "Tam zamanlı pozisyonlar"
+    }
+  },
+  "benefits": {
+    "title": {
+      "part1": "Türk Şirketleri Neden",
+      "part2": "JobsAdmire ile Çalışıyor?"
+    },
+    "items": {
+      "reliableTalent": {
+        "title": "Güvenilir Yetenek Temini",
+        "description": "Dağıtıma hazır, ön taramalı uluslararası aday havuzuna erişin."
+      },
+      "fasterHiring": {
+        "title": "Daha Hızlı İşe Alım",
+        "description": "Yapılandırılmış kaynak bulma ve ön eleme süreçleriyle işe alım süresini kısaltın."
+      },
+      "scalableWorkforce": {
+        "title": "Ölçeklenebilir İşgücü",
+        "description": "Proje veya üretim talebine göre 5 veya 500 işçi kiralayın."
+      },
+      "industrySpecific": {
+        "title": "Sektöre Özel İstihdam",
+        "description": "Fabrika, inşaat, lojistik veya hizmet rollerine uygun adaylar."
+      },
+      "costEfficient": {
+        "title": "Maliyet Etkin İşe Alım",
+        "description": "Şirket içi işe alım süreçlerine kıyasla daha düşük istihdam maliyetleri."
+      },
+      "confidential": {
+        "title": "Gizli ve Profesyonel",
+        "description": "Tüm işveren gereksinimleri gizlilik ve uyumluluk içinde ele alınır."
+      }
+    }
+  },
+  "process": {
+    "title": {
+      "part1": "İstihdam",
+      "part2": "Sürecimiz"
+    },
+    "subtitle": "Türk işverenler için işgücü istihdamını basitleştiriyoruz",
+    "steps": {
+      "requirement": {
+        "step": "01",
+        "title": "İhtiyaç Görüşmesi",
+        "description": "İş rolleri, işçi sayısı, gerekli beceriler ve zaman çizelgelerini paylaşırsınız."
+      },
+      "sourcing": {
+        "step": "02",
+        "title": "Aday Temini",
+        "description": "Uluslararası istihdam ağımız aracılığıyla uygun adayları buluyoruz."
+      },
+      "screening": {
+        "step": "03",
+        "title": "Tarama ve Ön Eleme",
+        "description": "Adaylar kriterlerinize göre taranır ve ön elemeye tabi tutulur."
+      },
+      "onboarding": {
+        "step": "04",
+        "title": "Koordinasyon ve İşe Alım",
+        "description": "Sorunsuz bir işe alım ve oryantasyon süreci için koordinasyon sağlıyoruz."
+      }
+    }
+  },
+  "requirements": {
+    "title": {
+      "part1": "İşverenlerden",
+      "part2": "Beklentilerimiz"
+    },
+    "subtitle": "İstihdam sürecine başlamak için genellikle aşağıdaki bilgilere ihtiyaç duyarız",
+    "items": {
+      "jobRoles": "İş rolü tanımları",
+      "workerCount": "Gerekli işçi sayısı",
+      "skillLevel": "Beceri düzeyi (nitelikli / yarı nitelikli / niteliksiz)",
+      "contractDuration": "Sözleşme süresi veya proje zaman çizelgesi",
+      "location": "Türkiye'deki işyeri konumu",
+      "operational": "Özel operasyonel gereksinimler"
+    },
+    "note": "Ekibimiz her adımda size rehberlik edecektir."
+  },
+  "cta": {
+    "title": "Türkiye'deki Fabrikanız veya İşletmeniz İçin İşçiye mi İhtiyacınız Var?",
+    "subtitle": "İşgücü gereksinimlerinizi bize bildirin, istihdam ekibimiz kısa sürede sizinle iletişime geçecektir.",
+    "button": "İşgücü Desteği Talep Et"
+  },
+  "footer": {
+    "disclaimer": "JobsAdmire, özel bir uluslararası istihdam ve danışmanlık firmasıdır. İşverenlere istihdam desteği, aday temini ve işe alım koordinasyonu sağlıyoruz.",
+    "note": "Herhangi bir devlet kurumu ile bağlantılı değiliz ve resmi belge düzenlemiyoruz."
+  },
+  "floatingBadge": {
+    "title": "Güvenilir Ortak",
+    "clients": "100+ Türk Şirketi"
+  },
+  "popup": {
+    "title": "İşgücü Desteği Talebi",
+    "subtitle": "İşgücü gereksinimlerinizi bize bildirin",
+    "form": {
+      "companyNamePlaceholder": "Şirket adınızı girin",
+      "contactNamePlaceholder": "İletişim kişisi adını girin",
+      "phonePlaceholder": "Telefon numarasını girin",
+      "emailPlaceholder": "E-posta adresini girin",
+      "workersNeededPlaceholder": "Gerekli işçi sayısı (örn: 10-50)",
+      "skillLevelPlaceholder": "Gerekli beceri düzeyini seçin",
+      "industryPlaceholder": "Sektörünüzü seçin (isteğe bağlı)",
+      "messagePlaceholder": "Ek gereksinimler veya mesaj (isteğe bağlı)",
+      "submitButton": "Talep Gönder",
+      "submitting": "Gönderiliyor...",
+      "terms": "Bu formu göndererek şartlar ve koşullarımızı kabul etmiş olursunuz",
+      "skillLevels": {
+        "skilled": "Nitelikli İşçiler",
+        "semiSkilled": "Yarı Nitelikli İşçiler",
+        "unskilled": "Niteliksiz / Genel İşçiler",
+        "mixed": "Karma (Birden Fazla Beceri Düzeyi)"
+      },
+      "industries": {
+        "manufacturing": "Üretim / Fabrika",
+        "construction": "İnşaat",
+        "logistics": "Lojistik / Depo",
+        "agriculture": "Tarım / Gıda İşleme",
+        "hospitality": "Konaklama / Oteller",
+        "retail": "Perakende / Hizmet",
+        "other": "Diğer"
+      }
+    },
+    "errors": {
+      "companyNameRequired": "Şirket adı gereklidir",
+      "contactNameRequired": "İletişim kişisi adı gereklidir",
+      "phoneRequired": "Telefon numarası gereklidir",
+      "emailRequired": "E-posta gereklidir",
+      "workersNeededRequired": "Gerekli işçi sayısı gereklidir",
+      "skillLevelRequired": "Lütfen bir beceri düzeyi seçin"
+    },
+    "success": "Teşekkürler! Ekibimiz kısa sürede sizinle iletişime geçecektir.",
+    "error": "Hata: "
+  }
+}
