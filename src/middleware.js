@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 
 // Supported locales (must match next-i18next.config.js)
-const SUPPORTED_LOCALES = ['en', 'fr', 'de', 'tr', 'ar', 'ru', 'fa'];
+const SUPPORTED_LOCALES = ['en', 'fr', 'de', 'tr', 'ar', 'ru', 'fa', 'id', 'fil', 'tk', 'tg'];
 const DEFAULT_LOCALE = 'en';
 
 // For local testing: set this to a country code to simulate geo-detection
@@ -37,7 +37,18 @@ const COUNTRY_LOCALE_MAP = {
   // Persian/Farsi countries
   IR: 'fa', // Iran
   AF: 'fa', // Afghanistan
-  TJ: 'fa', // Tajikistan
+  
+  // Indonesian
+  ID: 'id', // Indonesia
+  
+  // Filipino
+  PH: 'fil', // Philippines
+  
+  // Turkmen
+  TM: 'tk', // Turkmenistan
+  
+  // Tajik
+  TJ: 'tg', // Tajikistan
   
   // German-speaking countries
   DE: 'de', // Germany

@@ -488,12 +488,6 @@ const Navbar = () => {
             {/* Desktop Menu Items - Better spacing */}
             <div className="items-center hidden space-x-6 lg:flex">
               <NavItem
-                href="/"
-                text={t("navbar.home", { defaultValue: "Home" })}
-                active={activeItem === "home"}
-                onClick={() => handleNavClick("home")}
-              />
-              <NavItem
                 href="/about"
                 text={t("navbar.about", { defaultValue: "About Us" })}
                 active={activeItem === "about"}
@@ -550,6 +544,21 @@ const Navbar = () => {
                       </h3>
                       <ul className="space-y-3">
                         <MegaMenuItem
+                          href="/hire-workers-in-turkey"
+                          text={t(
+                            "navbar.megaMenu.immigration.items.hireWorkers.title",
+                            {
+                              defaultValue: "Hire Workers",
+                            }
+                          )}
+                          description={t(
+                            "navbar.megaMenu.immigration.items.hireWorkers.description",
+                            {
+                              defaultValue: "Workforce Recruitment Solutions",
+                            }
+                          )}
+                        />
+                        <MegaMenuItem
                           href="/immigration/turkey-residence-permit"
                           text={t("navbar.megaMenu.immigration.title", {
                             defaultValue: "Turkish Residence Permit",
@@ -601,21 +610,6 @@ const Navbar = () => {
                             "navbar.megaMenu.immigration.items.visaInvitations.description",
                             {
                               defaultValue: "Visa Services",
-                            }
-                          )}
-                        />
-                        <MegaMenuItem
-                          href="/hire-workers-in-turkey"
-                          text={t(
-                            "navbar.megaMenu.immigration.items.hireWorkers.title",
-                            {
-                              defaultValue: "Hire Workers",
-                            }
-                          )}
-                          description={t(
-                            "navbar.megaMenu.immigration.items.hireWorkers.description",
-                            {
-                              defaultValue: "Workforce Recruitment Solutions",
                             }
                           )}
                         />
@@ -825,17 +819,7 @@ const Navbar = () => {
           </div>
 
           {/* Mobile Navigation Items */}
-          {/* Mobile Navigation Items */}
           <div className="mt-6 space-y-1">
-            <MobileNavItem
-              href="/"
-              text={t("navbar.home", { defaultValue: "Home" })}
-              active={activeItem === "home"}
-              onClick={() => {
-                handleNavClick("home");
-                closeMenus();
-              }}
-            />
             <MobileNavItem
               href="/about"
               text={t("navbar.about", { defaultValue: "About Us" })}
@@ -872,6 +856,15 @@ const Navbar = () => {
                   <div>
                     <ul className="pl-6 space-y-3">
                       <MobileSubMenuItem
+                        href="/hire-workers-in-turkey"
+                        text={t(
+                          "navbar.megaMenu.immigration.items.hireWorkers.title",
+                          {
+                            defaultValue: "Hire Workers",
+                          }
+                        )}
+                      />
+                      <MobileSubMenuItem
                         href="/visa-e-invitations"
                         text={t(
                           "navbar.megaMenu.immigration.items.visaInvitations.title",
@@ -901,15 +894,6 @@ const Navbar = () => {
                           "navbar.megaMenu.immigration.items.citizenship.title",
                           {
                             defaultValue: "Turkish Citizenship",
-                          }
-                        )}
-                      />
-                      <MobileSubMenuItem
-                        href="/hire-workers-in-turkey"
-                        text={t(
-                          "navbar.megaMenu.immigration.items.hireWorkers.title",
-                          {
-                            defaultValue: "Hire Workers",
                           }
                         )}
                       />

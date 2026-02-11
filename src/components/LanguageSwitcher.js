@@ -61,6 +61,34 @@ const LanguageSwitcher = () => {
       flag: "🇮🇷",
       flagUrl: "https://flagcdn.com/24x18/ir.png",
     },
+    {
+      code: "id",
+      name: "Indonesian",
+      nativeName: "Bahasa Indonesia",
+      flag: "🇮🇩",
+      flagUrl: "https://flagcdn.com/24x18/id.png",
+    },
+    {
+      code: "fil",
+      name: "Filipino",
+      nativeName: "Filipino",
+      flag: "🇵🇭",
+      flagUrl: "https://flagcdn.com/24x18/ph.png",
+    },
+    {
+      code: "tk",
+      name: "Turkmen",
+      nativeName: "Türkmen",
+      flag: "🇹🇲",
+      flagUrl: "https://flagcdn.com/24x18/tm.png",
+    },
+    {
+      code: "tg",
+      name: "Tajik",
+      nativeName: "Тоҷикӣ",
+      flag: "🇹🇯",
+      flagUrl: "https://flagcdn.com/24x18/tj.png",
+    },
   ];
 
   const currentLanguage =
